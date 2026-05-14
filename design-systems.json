@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "designSystems": [
+    {
+      "id": "trae-design",
+      "title": "TRAE Design",
+      "slug": "trae-design",
+      "sourcePath": "design-systems/trae-design",
+      "entryPath": "design-systems/trae-design/index.tsx",
+      "tokenPath": "design-systems/trae-design/designToken.json",
+      "stylePath": "design-systems/trae-design/globals.css",
+      "description": "TRAE 智能 AI IDE 深色主题设计系统示例"
+    }
+  ]
+}
