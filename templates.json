@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "ref-antd",
+      "title": "Antd 电商后台",
+      "slug": "ref-antd",
+      "sourcePath": "templates/ref-antd",
+      "coverPath": "covers/ref-antd.svg",
+      "description": "Ant Design 风格的电商后台数据看板模板"
+    },
+    {
+      "id": "ref-app-home",
+      "title": "健身 App 首页",
+      "slug": "ref-app-home",
+      "sourcePath": "templates/ref-app-home",
+      "coverPath": "covers/ref-app-home.svg",
+      "description": "移动端健身应用首页模板"
+    }
+  ]
+}

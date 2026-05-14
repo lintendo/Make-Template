@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <rect width="390" height="844" rx="24" fill="#f8fafc"/>
+  <rect x="28" y="44" width="334" height="64" rx="12" fill="#2563eb"/>
+  <rect x="28" y="136" width="154" height="132" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="208" y="136" width="154" height="132" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="32" y="86" font-family="Arial, sans-serif" font-size="20" fill="#ffffff">Reference App Home</text>
+  <text x="32" y="320" font-family="Arial, sans-serif" font-size="14" fill="#334155">Mock Axure artifact cover</text>
+</svg>
