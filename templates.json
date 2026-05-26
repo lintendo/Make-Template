@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "templates": [
     {
-      "id": "ref-antd",
-      "title": "Antd 电商后台",
-      "slug": "ref-antd",
-      "sourcePath": "templates/ref-antd",
-      "coverPath": "covers/ref-antd.svg",
-      "description": "Ant Design 风格的电商后台数据看板模板"
+      "id": "beginner-guide",
+      "title": "新手指导",
+      "slug": "beginner-guide",
+      "sourcePath": "templates/beginner-guide",
+      "coverPath": "covers/beginner-guide.webp",
+      "description": "Axhub Make 新手入门指导模板，覆盖安装 Agent、选择模型、下达指令、创建编辑和发布原型。"
     },
     {
-      "id": "ref-app-home",
-      "title": "健身 App 首页",
-      "slug": "ref-app-home",
-      "sourcePath": "templates/ref-app-home",
-      "coverPath": "covers/ref-app-home.svg",
-      "description": "移动端健身应用首页模板"
+      "id": "annotation-demo",
+      "title": "标注演示",
+      "slug": "annotation-demo",
+      "sourcePath": "templates/annotation-demo",
+      "coverPath": "covers/annotation-demo.webp",
+      "description": "原型即 PRD 的标注能力演示模板，展示内容标注、状态标注、原型目录和生成标注。"
     }
   ]
 }
