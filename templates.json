@@ -2,6 +2,198 @@
   "schemaVersion": 1,
   "templates": [
     {
+      "id": "v0-irl-event-landing-custom-3-d-lanyard",
+      "title": "v0 IRL 纽约活动落地页",
+      "slug": "v0-irl-event-landing-custom-3-d-lanyard",
+      "sourcePath": "templates/v0-irl-event-landing-custom-3-d-lanyard",
+      "coverPath": "covers/v0-irl-event-landing-custom-3-d-lanyard.webp",
+      "description": "v0 IRL 活动落地页原型，包含 3D 挂绳名牌、活动议程和报名转化体验。来源：v0，https://v0.app/templates/v0-irl-event-landing-custom-3d-lanyard-IegtBb6qiEV。"
+    },
+    {
+      "id": "enterprise-supply-chain-management-dashboard-community",
+      "title": "企业供应链管理仪表盘",
+      "slug": "enterprise-supply-chain-management-dashboard-community",
+      "sourcePath": "templates/enterprise-supply-chain-management-dashboard-community",
+      "coverPath": "covers/enterprise-supply-chain-management-dashboard-community.webp",
+      "description": "企业供应链管理仪表盘原型，覆盖运营概览、供应链指标和业务监控场景。来源：Figma Community，https://www.figma.com/community/file/1539514812839902866/enterprise-supply-chain-management-dashboard。"
+    },
+    {
+      "id": "gpt-image-playground",
+      "title": "GPT Image Playground",
+      "slug": "gpt-image-playground",
+      "sourcePath": "templates/gpt-image-playground",
+      "coverPath": "covers/gpt-image-playground.webp",
+      "description": "GPT Image Playground 图像生成与编辑工作台原型，来源信息保留在页面自有说明中。来源：Self-contained prototype，页面内自带来源信息。"
+    },
+    {
+      "id": "elegance-luxury-e-commerce-template",
+      "title": "ÉLÉGANCE 奢华电商官网",
+      "slug": "elegance-luxury-e-commerce-template",
+      "sourcePath": "templates/elegance-luxury-e-commerce-template",
+      "coverPath": "covers/elegance-luxury-e-commerce-template.webp",
+      "description": "奢华电商品牌官网原型，包含高端商品展示、品牌叙事和购物转化体验。来源：v0，https://v0.app/templates/elegance-luxury-ecommerce-template-DFxRolInCJp。"
+    },
+    {
+      "id": "agentic-ai-task-orchestrator",
+      "title": "AgentFlow 多智能体任务编排器",
+      "slug": "agentic-ai-task-orchestrator",
+      "sourcePath": "templates/agentic-ai-task-orchestrator",
+      "coverPath": "covers/agentic-ai-task-orchestrator.webp",
+      "description": "多智能体任务编排器原型，展示任务流、Agent 协作和运行状态管理。来源：v0，https://v0.app/templates/agentic-ai-task-orchestrator-jCeGSebTxo0。"
+    },
+    {
+      "id": "farm-management-dashboard-with-ai-iot-community",
+      "title": "农场 AIoT 管理仪表盘",
+      "slug": "farm-management-dashboard-with-ai-iot-community",
+      "sourcePath": "templates/farm-management-dashboard-with-ai-iot-community",
+      "coverPath": "covers/farm-management-dashboard-with-ai-iot-community.webp",
+      "description": "农场 AIoT 管理仪表盘原型，展示农业设备、环境数据和智能管理场景。来源：Figma Community，https://www.figma.com/community/file/1536066541145305362/farm-management-dashboard-with-ai-iot。"
+    },
+    {
+      "id": "pointer-ai-landing-page",
+      "title": "Pointer AI 落地页",
+      "slug": "pointer-ai-landing-page",
+      "sourcePath": "templates/pointer-ai-landing-page",
+      "coverPath": "covers/pointer-ai-landing-page.webp",
+      "description": "Pointer AI 产品落地页原型，展示 AI 开发工具卖点、客户证言和定价模块。来源：v0，https://v0.app/templates/pointer-ai-landing-page-XQxxv76lK5w。"
+    },
+    {
+      "id": "zip-6",
+      "title": "CMSFullForm 管理后台",
+      "slug": "zip-6",
+      "sourcePath": "templates/zip-6",
+      "coverPath": "covers/zip-6.webp",
+      "description": "CMSFullForm 管理后台原型，覆盖 CMS 仪表盘、SaaS 仪表盘、插件和设置等后台页面。来源：v0，https://v0.app/templates/cms-full-form-admin-dashboard-tailwind-templates-d7j5B58dlp4。"
+    },
+    {
+      "id": "aura-quiet-living",
+      "title": "Aura 静谧生活电商体验",
+      "slug": "aura-quiet-living",
+      "sourcePath": "templates/aura-quiet-living",
+      "coverPath": "covers/aura-quiet-living.webp",
+      "description": "静谧生活方式电商体验原型，包含商品浏览、品牌氛围和 AI 礼宾助手。来源：Google AI Studio，https://aistudio.google.com/apps/bundled/aura_quiet_living?showPreview=true&showAssistant=true。"
+    },
+    {
+      "id": "3-d-galaxy-page",
+      "title": "3D 银河浏览器",
+      "slug": "3-d-galaxy-page",
+      "sourcePath": "templates/3-d-galaxy-page",
+      "coverPath": "covers/3-d-galaxy-page.webp",
+      "description": "沉浸式 3D 银河浏览体验原型，适合展示空间导航与视觉探索场景。来源：v0，https://v0.app/templates/3d-galaxy-page-jAKW17eb3Os。"
+    },
+    {
+      "id": "sales-ops-dashboard",
+      "title": "SalesOps 销售运营仪表盘",
+      "slug": "sales-ops-dashboard",
+      "sourcePath": "templates/sales-ops-dashboard",
+      "coverPath": "covers/sales-ops-dashboard.webp",
+      "description": "SalesOps 销售运营仪表盘原型，包含收入指标、团队绩效、客户和销售漏斗视图。来源：v0，https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi。"
+    },
+    {
+      "id": "katachi",
+      "title": "KATACHI 家具品牌官网",
+      "slug": "katachi",
+      "sourcePath": "templates/katachi",
+      "coverPath": "covers/katachi.webp",
+      "description": "家具品牌官网原型，覆盖品牌首页、材质表达、空间展示和订阅转化。来源：v0，https://v0.app/templates/katachi-6rnQUvOhgnB。"
+    },
+    {
+      "id": "zhipu",
+      "title": "智谱清言",
+      "slug": "zhipu",
+      "sourcePath": "templates/zhipu",
+      "coverPath": "covers/zhipu.webp",
+      "description": "智谱清言移动端多页面原型，覆盖首页、侧边导航、个人中心、智能体广场、AI 搜索和 AI 画图等核心路径。"
+    },
+    {
+      "id": "perplexity-ai-clone-chat-ui-design",
+      "title": "Perplexity AI 克隆聊天界面",
+      "slug": "perplexity-ai-clone-chat-ui-design",
+      "sourcePath": "templates/perplexity-ai-clone-chat-ui-design",
+      "coverPath": "covers/perplexity-ai-clone-chat-ui-design.webp",
+      "description": "Perplexity 风格 AI 聊天搜索界面原型，包含侧边栏、会话输入和升级弹窗体验。来源：v0，https://v0.app/templates/perplexity-ai-clone-chat-ui-design-25Jd26Tc5gR。"
+    },
+    {
+      "id": "modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr",
+      "title": "GiGi Gen Z 能量饮料官网",
+      "slug": "modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr",
+      "sourcePath": "templates/modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr",
+      "coverPath": "covers/modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr.webp",
+      "description": "Gen Z 能量饮料品牌官网原型，包含产品展示、动效滚动和营销转化模块。来源：v0，https://v0.app/templates/modern-gen-z-energy-drink-landing-page-with-lenis-IQDdAvEEGsS。"
+    },
+    {
+      "id": "financial-dashboard",
+      "title": "财务仪表盘",
+      "slug": "financial-dashboard",
+      "sourcePath": "templates/financial-dashboard",
+      "coverPath": "covers/financial-dashboard.webp",
+      "description": "财务数据仪表盘原型，展示关键指标、趋势图表和业务概览。来源：v0，https://v0.app/templates/financial-dashboard-DuidKNEmCKf。"
+    },
+    {
+      "id": "evasion-e-commerce-template",
+      "title": "EVASION 户外电商官网",
+      "slug": "evasion-e-commerce-template",
+      "sourcePath": "templates/evasion-e-commerce-template",
+      "coverPath": "covers/evasion-e-commerce-template.webp",
+      "description": "户外电商品牌官网原型，覆盖产品陈列、场景化营销和购物转化体验。来源：v0，https://v0.app/templates/evasion-ecommerce-template-annqMtFCROP。"
+    },
+    {
+      "id": "optimus-the-ai-platform-to-build-and-ship",
+      "title": "Optimus AI 平台官网",
+      "slug": "optimus-the-ai-platform-to-build-and-ship",
+      "sourcePath": "templates/optimus-the-ai-platform-to-build-and-ship",
+      "coverPath": "covers/optimus-the-ai-platform-to-build-and-ship.webp",
+      "description": "Optimus AI 平台官网原型，展示 AI 构建发布平台的产品能力、安全和开发者体验。来源：v0，https://v0.app/templates/optimus-the-ai-platform-to-build-and-ship-LHv4frpA7Us。"
+    },
+    {
+      "id": "essence-elegant-showcase-template-for-brands",
+      "title": "ESSENCE 高级餐饮品牌展示页",
+      "slug": "essence-elegant-showcase-template-for-brands",
+      "sourcePath": "templates/essence-elegant-showcase-template-for-brands",
+      "coverPath": "covers/essence-elegant-showcase-template-for-brands.webp",
+      "description": "高级餐饮品牌展示页原型，覆盖品牌理念、菜单视觉和预约转化场景。来源：v0，https://v0.app/templates/essence-elegant-showcase-template-for-brands-ncdfEYFL1p9。"
+    },
+    {
+      "id": "zip-3",
+      "title": "Apex 企业 SaaS 官网",
+      "slug": "zip-3",
+      "sourcePath": "templates/zip-3",
+      "coverPath": "covers/zip-3.webp",
+      "description": "Apex 企业 SaaS 官网原型，覆盖产品能力、企业级卖点和落地页转化路径。来源：v0，https://v0.app/templates/premium-saas-landing-page-zgEs6kEZIMQ。"
+    },
+    {
+      "id": "brutalist-ai-saa-s-landing-page",
+      "title": "Brutalist AI SaaS Landing Page",
+      "slug": "brutalist-ai-saa-s-landing-page",
+      "sourcePath": "templates/brutalist-ai-saa-s-landing-page",
+      "coverPath": "covers/brutalist-ai-saa-s-landing-page.webp",
+      "description": "Brutalist 风格 AI SaaS 落地页原型，突出强对比排版、产品卖点和转化模块。来源：v0，https://v0.app/templates/brutalist-ai-saas-landing-page-6QYngsI1qTp。"
+    },
+    {
+      "id": "interface",
+      "title": "SIGNAL 实验创意工作室",
+      "slug": "interface",
+      "sourcePath": "templates/interface",
+      "coverPath": "covers/interface.webp",
+      "description": "SIGNAL 实验创意工作室官网原型，展示创意项目、工作室形象和品牌内容。来源：v0，https://v0.app/templates/interface-XhGK3naSZPB。"
+    },
+    {
+      "id": "wms-by-vitamin-community",
+      "title": "维生素社区版 WMS 原型",
+      "slug": "wms-by-vitamin-community",
+      "sourcePath": "templates/wms-by-vitamin-community",
+      "coverPath": "covers/wms-by-vitamin-community.webp",
+      "description": "仓储管理系统 WMS 多页面后台原型，保留设计系统总览、入库、出库、库存和基础资料等模块。原作者：vitamin，Figma 主页：https://www.figma.com/@vitamin2。"
+    },
+    {
+      "id": "jdfinance-1",
+      "title": "京东金融",
+      "slug": "jdfinance-1",
+      "sourcePath": "templates/jdfinance-1",
+      "coverPath": "covers/jdfinance-1.webp",
+      "description": "京东金融移动端 App 原型模板，覆盖首页、理财、省钱、社区、基金、小金库、借贷、保险和我的等核心路径。"
+    },
+    {
       "id": "beginner-guide",
       "title": "新手指导",
       "slug": "beginner-guide",
