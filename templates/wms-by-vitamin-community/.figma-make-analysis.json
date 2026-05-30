@@ -1,0 +1,2092 @@
+{
+  "summary": {
+    "totalFiles": 90,
+    "codeFileCount": 80,
+    "componentCount": 56,
+    "pageCount": 21,
+    "pathAliasCount": 0,
+    "versionedImportCount": 77,
+    "versionedAliasCount": 38,
+    "dependenciesToInstall": 40,
+    "cssVariableCount": 274,
+    "designDocCount": 2
+  },
+  "structure": {
+    "hasSrcDir": true,
+    "hasAppTsx": true,
+    "hasMainTsx": true,
+    "hasPagesDir": true,
+    "hasComponentsDir": true,
+    "hasGuidelinesDir": true,
+    "hasBuildDir": false,
+    "hasViteConfig": true,
+    "hasIndexHtml": true,
+    "hasIndexCss": true,
+    "hasGlobalsCss": true
+  },
+  "entryFiles": {
+    "appTsx": "src/App.tsx",
+    "mainTsx": "src/main.tsx",
+    "indexHtml": "index.html",
+    "pagesDir": "src/pages",
+    "pageFiles": [
+      "src/pages/ArrivalScanPage.tsx",
+      "src/pages/ContainerManagementPage.tsx",
+      "src/pages/CustomerManagementPage.tsx",
+      "src/pages/DashboardPage.tsx",
+      "src/pages/InboundDetailPage.tsx",
+      "src/pages/InboundListPage.tsx",
+      "src/pages/InventoryListPage.tsx",
+      "src/pages/InventoryTransactionPage.tsx",
+      "src/pages/LocationManagementPage.tsx",
+      "src/pages/OutboundCheckPage.tsx",
+      "src/pages/OutboundCheckPage_new.tsx",
+      "src/pages/OutboundDetailPage.tsx",
+      "src/pages/OutboundListPage.tsx",
+      "src/pages/ProductMasterDataPage.tsx",
+      "src/pages/PutawayDetailPage.tsx",
+      "src/pages/PutawayListPage.tsx",
+      "src/pages/SeedingOperationPage.tsx",
+      "src/pages/SeedingWallManagementPage.tsx",
+      "src/pages/WaveDetailPage.tsx",
+      "src/pages/WaveListPage.tsx",
+      "src/pages/ZoneManagementPage.tsx"
+    ]
+  },
+  "pathAliases": [],
+  "versionedImports": [
+    {
+      "file": "src/components/ui/accordion.tsx",
+      "original": "@radix-ui/react-accordion@1.2.3",
+      "replacement": "@radix-ui/react-accordion",
+      "packageName": "@radix-ui/react-accordion",
+      "version": "1.2.3"
+    },
+    {
+      "file": "src/components/ui/accordion.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/alert-dialog.tsx",
+      "original": "@radix-ui/react-alert-dialog@1.1.6",
+      "replacement": "@radix-ui/react-alert-dialog",
+      "packageName": "@radix-ui/react-alert-dialog",
+      "version": "1.1.6"
+    },
+    {
+      "file": "src/components/ui/alert.tsx",
+      "original": "class-variance-authority@0.7.1",
+      "replacement": "class-variance-authority",
+      "packageName": "class-variance-authority",
+      "version": "0.7.1"
+    },
+    {
+      "file": "src/components/ui/aspect-ratio.tsx",
+      "original": "@radix-ui/react-aspect-ratio@1.1.2",
+      "replacement": "@radix-ui/react-aspect-ratio",
+      "packageName": "@radix-ui/react-aspect-ratio",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/avatar.tsx",
+      "original": "@radix-ui/react-avatar@1.1.3",
+      "replacement": "@radix-ui/react-avatar",
+      "packageName": "@radix-ui/react-avatar",
+      "version": "1.1.3"
+    },
+    {
+      "file": "src/components/ui/badge.tsx",
+      "original": "@radix-ui/react-slot@1.1.2",
+      "replacement": "@radix-ui/react-slot",
+      "packageName": "@radix-ui/react-slot",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/badge.tsx",
+      "original": "class-variance-authority@0.7.1",
+      "replacement": "class-variance-authority",
+      "packageName": "class-variance-authority",
+      "version": "0.7.1"
+    },
+    {
+      "file": "src/components/ui/breadcrumb.tsx",
+      "original": "@radix-ui/react-slot@1.1.2",
+      "replacement": "@radix-ui/react-slot",
+      "packageName": "@radix-ui/react-slot",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/breadcrumb.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/button.tsx",
+      "original": "@radix-ui/react-slot@1.1.2",
+      "replacement": "@radix-ui/react-slot",
+      "packageName": "@radix-ui/react-slot",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/button.tsx",
+      "original": "class-variance-authority@0.7.1",
+      "replacement": "class-variance-authority",
+      "packageName": "class-variance-authority",
+      "version": "0.7.1"
+    },
+    {
+      "file": "src/components/ui/calendar.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/calendar.tsx",
+      "original": "react-day-picker@8.10.1",
+      "replacement": "react-day-picker",
+      "packageName": "react-day-picker",
+      "version": "8.10.1"
+    },
+    {
+      "file": "src/components/ui/carousel.tsx",
+      "original": "embla-carousel-react@8.6.0",
+      "replacement": "embla-carousel-react",
+      "packageName": "embla-carousel-react",
+      "version": "8.6.0"
+    },
+    {
+      "file": "src/components/ui/carousel.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/chart.tsx",
+      "original": "recharts@2.15.2",
+      "replacement": "recharts",
+      "packageName": "recharts",
+      "version": "2.15.2"
+    },
+    {
+      "file": "src/components/ui/checkbox.tsx",
+      "original": "@radix-ui/react-checkbox@1.1.4",
+      "replacement": "@radix-ui/react-checkbox",
+      "packageName": "@radix-ui/react-checkbox",
+      "version": "1.1.4"
+    },
+    {
+      "file": "src/components/ui/checkbox.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/collapsible.tsx",
+      "original": "@radix-ui/react-collapsible@1.1.3",
+      "replacement": "@radix-ui/react-collapsible",
+      "packageName": "@radix-ui/react-collapsible",
+      "version": "1.1.3"
+    },
+    {
+      "file": "src/components/ui/command.tsx",
+      "original": "cmdk@1.1.1",
+      "replacement": "cmdk",
+      "packageName": "cmdk",
+      "version": "1.1.1"
+    },
+    {
+      "file": "src/components/ui/command.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/context-menu.tsx",
+      "original": "@radix-ui/react-context-menu@2.2.6",
+      "replacement": "@radix-ui/react-context-menu",
+      "packageName": "@radix-ui/react-context-menu",
+      "version": "2.2.6"
+    },
+    {
+      "file": "src/components/ui/context-menu.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/dialog.tsx",
+      "original": "@radix-ui/react-dialog@1.1.6",
+      "replacement": "@radix-ui/react-dialog",
+      "packageName": "@radix-ui/react-dialog",
+      "version": "1.1.6"
+    },
+    {
+      "file": "src/components/ui/dialog.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/drawer.tsx",
+      "original": "vaul@1.1.2",
+      "replacement": "vaul",
+      "packageName": "vaul",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/dropdown-menu.tsx",
+      "original": "@radix-ui/react-dropdown-menu@2.1.6",
+      "replacement": "@radix-ui/react-dropdown-menu",
+      "packageName": "@radix-ui/react-dropdown-menu",
+      "version": "2.1.6"
+    },
+    {
+      "file": "src/components/ui/dropdown-menu.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/form.tsx",
+      "original": "@radix-ui/react-label@2.1.2",
+      "replacement": "@radix-ui/react-label",
+      "packageName": "@radix-ui/react-label",
+      "version": "2.1.2"
+    },
+    {
+      "file": "src/components/ui/form.tsx",
+      "original": "@radix-ui/react-slot@1.1.2",
+      "replacement": "@radix-ui/react-slot",
+      "packageName": "@radix-ui/react-slot",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/form.tsx",
+      "original": "react-hook-form@7.55.0",
+      "replacement": "react-hook-form",
+      "packageName": "react-hook-form",
+      "version": "7.55.0"
+    },
+    {
+      "file": "src/components/ui/hover-card.tsx",
+      "original": "@radix-ui/react-hover-card@1.1.6",
+      "replacement": "@radix-ui/react-hover-card",
+      "packageName": "@radix-ui/react-hover-card",
+      "version": "1.1.6"
+    },
+    {
+      "file": "src/components/ui/input-otp.tsx",
+      "original": "input-otp@1.4.2",
+      "replacement": "input-otp",
+      "packageName": "input-otp",
+      "version": "1.4.2"
+    },
+    {
+      "file": "src/components/ui/input-otp.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/label.tsx",
+      "original": "@radix-ui/react-label@2.1.2",
+      "replacement": "@radix-ui/react-label",
+      "packageName": "@radix-ui/react-label",
+      "version": "2.1.2"
+    },
+    {
+      "file": "src/components/ui/menubar.tsx",
+      "original": "@radix-ui/react-menubar@1.1.6",
+      "replacement": "@radix-ui/react-menubar",
+      "packageName": "@radix-ui/react-menubar",
+      "version": "1.1.6"
+    },
+    {
+      "file": "src/components/ui/menubar.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/navigation-menu.tsx",
+      "original": "@radix-ui/react-navigation-menu@1.2.5",
+      "replacement": "@radix-ui/react-navigation-menu",
+      "packageName": "@radix-ui/react-navigation-menu",
+      "version": "1.2.5"
+    },
+    {
+      "file": "src/components/ui/navigation-menu.tsx",
+      "original": "class-variance-authority@0.7.1",
+      "replacement": "class-variance-authority",
+      "packageName": "class-variance-authority",
+      "version": "0.7.1"
+    },
+    {
+      "file": "src/components/ui/navigation-menu.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/pagination.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/popover.tsx",
+      "original": "@radix-ui/react-popover@1.1.6",
+      "replacement": "@radix-ui/react-popover",
+      "packageName": "@radix-ui/react-popover",
+      "version": "1.1.6"
+    },
+    {
+      "file": "src/components/ui/progress.tsx",
+      "original": "@radix-ui/react-progress@1.1.2",
+      "replacement": "@radix-ui/react-progress",
+      "packageName": "@radix-ui/react-progress",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/radio-group.tsx",
+      "original": "@radix-ui/react-radio-group@1.2.3",
+      "replacement": "@radix-ui/react-radio-group",
+      "packageName": "@radix-ui/react-radio-group",
+      "version": "1.2.3"
+    },
+    {
+      "file": "src/components/ui/radio-group.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/resizable.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/resizable.tsx",
+      "original": "react-resizable-panels@2.1.7",
+      "replacement": "react-resizable-panels",
+      "packageName": "react-resizable-panels",
+      "version": "2.1.7"
+    },
+    {
+      "file": "src/components/ui/scroll-area.tsx",
+      "original": "@radix-ui/react-scroll-area@1.2.3",
+      "replacement": "@radix-ui/react-scroll-area",
+      "packageName": "@radix-ui/react-scroll-area",
+      "version": "1.2.3"
+    },
+    {
+      "file": "src/components/ui/select.tsx",
+      "original": "@radix-ui/react-select@2.1.6",
+      "replacement": "@radix-ui/react-select",
+      "packageName": "@radix-ui/react-select",
+      "version": "2.1.6"
+    },
+    {
+      "file": "src/components/ui/select.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/separator.tsx",
+      "original": "@radix-ui/react-separator@1.1.2",
+      "replacement": "@radix-ui/react-separator",
+      "packageName": "@radix-ui/react-separator",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/sheet.tsx",
+      "original": "@radix-ui/react-dialog@1.1.6",
+      "replacement": "@radix-ui/react-dialog",
+      "packageName": "@radix-ui/react-dialog",
+      "version": "1.1.6"
+    },
+    {
+      "file": "src/components/ui/sheet.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/sidebar.tsx",
+      "original": "@radix-ui/react-slot@1.1.2",
+      "replacement": "@radix-ui/react-slot",
+      "packageName": "@radix-ui/react-slot",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/sidebar.tsx",
+      "original": "class-variance-authority@0.7.1",
+      "replacement": "class-variance-authority",
+      "packageName": "class-variance-authority",
+      "version": "0.7.1"
+    },
+    {
+      "file": "src/components/ui/sidebar.tsx",
+      "original": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "file": "src/components/ui/slider.tsx",
+      "original": "@radix-ui/react-slider@1.2.3",
+      "replacement": "@radix-ui/react-slider",
+      "packageName": "@radix-ui/react-slider",
+      "version": "1.2.3"
+    },
+    {
+      "file": "src/components/ui/sonner.tsx",
+      "original": "next-themes@0.4.6",
+      "replacement": "next-themes",
+      "packageName": "next-themes",
+      "version": "0.4.6"
+    },
+    {
+      "file": "src/components/ui/sonner.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/components/ui/switch.tsx",
+      "original": "@radix-ui/react-switch@1.1.3",
+      "replacement": "@radix-ui/react-switch",
+      "packageName": "@radix-ui/react-switch",
+      "version": "1.1.3"
+    },
+    {
+      "file": "src/components/ui/tabs.tsx",
+      "original": "@radix-ui/react-tabs@1.1.3",
+      "replacement": "@radix-ui/react-tabs",
+      "packageName": "@radix-ui/react-tabs",
+      "version": "1.1.3"
+    },
+    {
+      "file": "src/components/ui/toggle-group.tsx",
+      "original": "@radix-ui/react-toggle-group@1.1.2",
+      "replacement": "@radix-ui/react-toggle-group",
+      "packageName": "@radix-ui/react-toggle-group",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/toggle-group.tsx",
+      "original": "class-variance-authority@0.7.1",
+      "replacement": "class-variance-authority",
+      "packageName": "class-variance-authority",
+      "version": "0.7.1"
+    },
+    {
+      "file": "src/components/ui/toggle.tsx",
+      "original": "@radix-ui/react-toggle@1.1.2",
+      "replacement": "@radix-ui/react-toggle",
+      "packageName": "@radix-ui/react-toggle",
+      "version": "1.1.2"
+    },
+    {
+      "file": "src/components/ui/toggle.tsx",
+      "original": "class-variance-authority@0.7.1",
+      "replacement": "class-variance-authority",
+      "packageName": "class-variance-authority",
+      "version": "0.7.1"
+    },
+    {
+      "file": "src/components/ui/tooltip.tsx",
+      "original": "@radix-ui/react-tooltip@1.1.8",
+      "replacement": "@radix-ui/react-tooltip",
+      "packageName": "@radix-ui/react-tooltip",
+      "version": "1.1.8"
+    },
+    {
+      "file": "src/components/wms/PutawayDialog.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/components/wms/ReceiveDialog.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/pages/ArrivalScanPage.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/pages/InboundDetailPage.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/pages/InboundListPage.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/pages/OutboundCheckPage.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/pages/OutboundCheckPage_new.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/pages/OutboundDetailPage.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/pages/SeedingOperationPage.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "file": "src/pages/WaveDetailPage.tsx",
+      "original": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    }
+  ],
+  "versionedAliases": [
+    {
+      "find": "vaul@1.1.2",
+      "replacement": "vaul",
+      "packageName": "vaul",
+      "version": "1.1.2"
+    },
+    {
+      "find": "sonner@2.0.3",
+      "replacement": "sonner",
+      "packageName": "sonner",
+      "version": "2.0.3"
+    },
+    {
+      "find": "recharts@2.15.2",
+      "replacement": "recharts",
+      "packageName": "recharts",
+      "version": "2.15.2"
+    },
+    {
+      "find": "react-resizable-panels@2.1.7",
+      "replacement": "react-resizable-panels",
+      "packageName": "react-resizable-panels",
+      "version": "2.1.7"
+    },
+    {
+      "find": "react-hook-form@7.55.0",
+      "replacement": "react-hook-form",
+      "packageName": "react-hook-form",
+      "version": "7.55.0"
+    },
+    {
+      "find": "react-day-picker@8.10.1",
+      "replacement": "react-day-picker",
+      "packageName": "react-day-picker",
+      "version": "8.10.1"
+    },
+    {
+      "find": "next-themes@0.4.6",
+      "replacement": "next-themes",
+      "packageName": "next-themes",
+      "version": "0.4.6"
+    },
+    {
+      "find": "lucide-react@0.487.0",
+      "replacement": "lucide-react",
+      "packageName": "lucide-react",
+      "version": "0.487.0"
+    },
+    {
+      "find": "input-otp@1.4.2",
+      "replacement": "input-otp",
+      "packageName": "input-otp",
+      "version": "1.4.2"
+    },
+    {
+      "find": "embla-carousel-react@8.6.0",
+      "replacement": "embla-carousel-react",
+      "packageName": "embla-carousel-react",
+      "version": "8.6.0"
+    },
+    {
+      "find": "cmdk@1.1.1",
+      "replacement": "cmdk",
+      "packageName": "cmdk",
+      "version": "1.1.1"
+    },
+    {
+      "find": "class-variance-authority@0.7.1",
+      "replacement": "class-variance-authority",
+      "packageName": "class-variance-authority",
+      "version": "0.7.1"
+    },
+    {
+      "find": "@radix-ui/react-tooltip@1.1.8",
+      "replacement": "@radix-ui/react-tooltip",
+      "packageName": "@radix-ui/react-tooltip",
+      "version": "1.1.8"
+    },
+    {
+      "find": "@radix-ui/react-toggle@1.1.2",
+      "replacement": "@radix-ui/react-toggle",
+      "packageName": "@radix-ui/react-toggle",
+      "version": "1.1.2"
+    },
+    {
+      "find": "@radix-ui/react-toggle-group@1.1.2",
+      "replacement": "@radix-ui/react-toggle-group",
+      "packageName": "@radix-ui/react-toggle-group",
+      "version": "1.1.2"
+    },
+    {
+      "find": "@radix-ui/react-tabs@1.1.3",
+      "replacement": "@radix-ui/react-tabs",
+      "packageName": "@radix-ui/react-tabs",
+      "version": "1.1.3"
+    },
+    {
+      "find": "@radix-ui/react-switch@1.1.3",
+      "replacement": "@radix-ui/react-switch",
+      "packageName": "@radix-ui/react-switch",
+      "version": "1.1.3"
+    },
+    {
+      "find": "@radix-ui/react-slot@1.1.2",
+      "replacement": "@radix-ui/react-slot",
+      "packageName": "@radix-ui/react-slot",
+      "version": "1.1.2"
+    },
+    {
+      "find": "@radix-ui/react-slider@1.2.3",
+      "replacement": "@radix-ui/react-slider",
+      "packageName": "@radix-ui/react-slider",
+      "version": "1.2.3"
+    },
+    {
+      "find": "@radix-ui/react-separator@1.1.2",
+      "replacement": "@radix-ui/react-separator",
+      "packageName": "@radix-ui/react-separator",
+      "version": "1.1.2"
+    },
+    {
+      "find": "@radix-ui/react-select@2.1.6",
+      "replacement": "@radix-ui/react-select",
+      "packageName": "@radix-ui/react-select",
+      "version": "2.1.6"
+    },
+    {
+      "find": "@radix-ui/react-scroll-area@1.2.3",
+      "replacement": "@radix-ui/react-scroll-area",
+      "packageName": "@radix-ui/react-scroll-area",
+      "version": "1.2.3"
+    },
+    {
+      "find": "@radix-ui/react-radio-group@1.2.3",
+      "replacement": "@radix-ui/react-radio-group",
+      "packageName": "@radix-ui/react-radio-group",
+      "version": "1.2.3"
+    },
+    {
+      "find": "@radix-ui/react-progress@1.1.2",
+      "replacement": "@radix-ui/react-progress",
+      "packageName": "@radix-ui/react-progress",
+      "version": "1.1.2"
+    },
+    {
+      "find": "@radix-ui/react-popover@1.1.6",
+      "replacement": "@radix-ui/react-popover",
+      "packageName": "@radix-ui/react-popover",
+      "version": "1.1.6"
+    },
+    {
+      "find": "@radix-ui/react-navigation-menu@1.2.5",
+      "replacement": "@radix-ui/react-navigation-menu",
+      "packageName": "@radix-ui/react-navigation-menu",
+      "version": "1.2.5"
+    },
+    {
+      "find": "@radix-ui/react-menubar@1.1.6",
+      "replacement": "@radix-ui/react-menubar",
+      "packageName": "@radix-ui/react-menubar",
+      "version": "1.1.6"
+    },
+    {
+      "find": "@radix-ui/react-label@2.1.2",
+      "replacement": "@radix-ui/react-label",
+      "packageName": "@radix-ui/react-label",
+      "version": "2.1.2"
+    },
+    {
+      "find": "@radix-ui/react-hover-card@1.1.6",
+      "replacement": "@radix-ui/react-hover-card",
+      "packageName": "@radix-ui/react-hover-card",
+      "version": "1.1.6"
+    },
+    {
+      "find": "@radix-ui/react-dropdown-menu@2.1.6",
+      "replacement": "@radix-ui/react-dropdown-menu",
+      "packageName": "@radix-ui/react-dropdown-menu",
+      "version": "2.1.6"
+    },
+    {
+      "find": "@radix-ui/react-dialog@1.1.6",
+      "replacement": "@radix-ui/react-dialog",
+      "packageName": "@radix-ui/react-dialog",
+      "version": "1.1.6"
+    },
+    {
+      "find": "@radix-ui/react-context-menu@2.2.6",
+      "replacement": "@radix-ui/react-context-menu",
+      "packageName": "@radix-ui/react-context-menu",
+      "version": "2.2.6"
+    },
+    {
+      "find": "@radix-ui/react-collapsible@1.1.3",
+      "replacement": "@radix-ui/react-collapsible",
+      "packageName": "@radix-ui/react-collapsible",
+      "version": "1.1.3"
+    },
+    {
+      "find": "@radix-ui/react-checkbox@1.1.4",
+      "replacement": "@radix-ui/react-checkbox",
+      "packageName": "@radix-ui/react-checkbox",
+      "version": "1.1.4"
+    },
+    {
+      "find": "@radix-ui/react-avatar@1.1.3",
+      "replacement": "@radix-ui/react-avatar",
+      "packageName": "@radix-ui/react-avatar",
+      "version": "1.1.3"
+    },
+    {
+      "find": "@radix-ui/react-aspect-ratio@1.1.2",
+      "replacement": "@radix-ui/react-aspect-ratio",
+      "packageName": "@radix-ui/react-aspect-ratio",
+      "version": "1.1.2"
+    },
+    {
+      "find": "@radix-ui/react-alert-dialog@1.1.6",
+      "replacement": "@radix-ui/react-alert-dialog",
+      "packageName": "@radix-ui/react-alert-dialog",
+      "version": "1.1.6"
+    },
+    {
+      "find": "@radix-ui/react-accordion@1.2.3",
+      "replacement": "@radix-ui/react-accordion",
+      "packageName": "@radix-ui/react-accordion",
+      "version": "1.2.3"
+    }
+  ],
+  "dependencies": {
+    "all": {
+      "@radix-ui/react-accordion": "^1.2.3",
+      "@radix-ui/react-alert-dialog": "^1.1.6",
+      "@radix-ui/react-aspect-ratio": "^1.1.2",
+      "@radix-ui/react-avatar": "^1.1.3",
+      "@radix-ui/react-checkbox": "^1.1.4",
+      "@radix-ui/react-collapsible": "^1.1.3",
+      "@radix-ui/react-context-menu": "^2.2.6",
+      "@radix-ui/react-dialog": "^1.1.6",
+      "@radix-ui/react-dropdown-menu": "^2.1.6",
+      "@radix-ui/react-hover-card": "^1.1.6",
+      "@radix-ui/react-label": "^2.1.2",
+      "@radix-ui/react-menubar": "^1.1.6",
+      "@radix-ui/react-navigation-menu": "^1.2.5",
+      "@radix-ui/react-popover": "^1.1.6",
+      "@radix-ui/react-progress": "^1.1.2",
+      "@radix-ui/react-radio-group": "^1.2.3",
+      "@radix-ui/react-scroll-area": "^1.2.3",
+      "@radix-ui/react-select": "^2.1.6",
+      "@radix-ui/react-separator": "^1.1.2",
+      "@radix-ui/react-slider": "^1.2.3",
+      "@radix-ui/react-slot": "^1.1.2",
+      "@radix-ui/react-switch": "^1.1.3",
+      "@radix-ui/react-tabs": "^1.1.3",
+      "@radix-ui/react-toggle": "^1.1.2",
+      "@radix-ui/react-toggle-group": "^1.1.2",
+      "@radix-ui/react-tooltip": "^1.1.8",
+      "class-variance-authority": "^0.7.1",
+      "clsx": "*",
+      "cmdk": "^1.1.1",
+      "embla-carousel-react": "^8.6.0",
+      "input-otp": "^1.4.2",
+      "lucide-react": "^0.487.0",
+      "next-themes": "^0.4.6",
+      "react": "^18.3.1",
+      "react-day-picker": "^8.10.1",
+      "react-dom": "^18.3.1",
+      "react-hook-form": "^7.55.0",
+      "react-resizable-panels": "^2.1.7",
+      "recharts": "^2.15.2",
+      "sonner": "^2.0.3",
+      "tailwind-merge": "*",
+      "tw-animate-css": "^1.3.8",
+      "vaul": "^1.1.2"
+    },
+    "toInstall": [
+      "@radix-ui/react-accordion",
+      "@radix-ui/react-alert-dialog",
+      "@radix-ui/react-aspect-ratio",
+      "@radix-ui/react-avatar",
+      "@radix-ui/react-checkbox",
+      "@radix-ui/react-collapsible",
+      "@radix-ui/react-context-menu",
+      "@radix-ui/react-dialog",
+      "@radix-ui/react-dropdown-menu",
+      "@radix-ui/react-hover-card",
+      "@radix-ui/react-label",
+      "@radix-ui/react-menubar",
+      "@radix-ui/react-navigation-menu",
+      "@radix-ui/react-popover",
+      "@radix-ui/react-progress",
+      "@radix-ui/react-radio-group",
+      "@radix-ui/react-scroll-area",
+      "@radix-ui/react-select",
+      "@radix-ui/react-separator",
+      "@radix-ui/react-slider",
+      "@radix-ui/react-slot",
+      "@radix-ui/react-switch",
+      "@radix-ui/react-tabs",
+      "@radix-ui/react-toggle",
+      "@radix-ui/react-toggle-group",
+      "@radix-ui/react-tooltip",
+      "class-variance-authority",
+      "clsx",
+      "cmdk",
+      "embla-carousel-react",
+      "input-otp",
+      "lucide-react",
+      "react-day-picker",
+      "react-hook-form",
+      "react-resizable-panels",
+      "recharts",
+      "sonner",
+      "tailwind-merge",
+      "tw-animate-css",
+      "vaul"
+    ],
+    "excluded": [
+      "react",
+      "react-dom",
+      "next-themes"
+    ]
+  },
+  "css": {
+    "hasIndexCss": true,
+    "indexCssPath": "src/index.css",
+    "indexCssSize": 212,
+    "hasGlobalsCss": true,
+    "globalsCssPath": "src/styles/globals.css",
+    "globalsCssSize": 16137,
+    "cssVariableCount": 274,
+    "prefersGlobalsCssAsSource": true,
+    "atAliasReplacement": ""
+  },
+  "docs": {
+    "designSystemGuide": {
+      "exists": true,
+      "path": "src/DESIGN_SYSTEM_GUIDE.md"
+    },
+    "tokenReference": {
+      "exists": true,
+      "path": "src/TOKEN_REFERENCE.md"
+    }
+  },
+  "figmaMakeAssets": {
+    "hasCanvasFig": false,
+    "hasMetaJson": false,
+    "hasAiChat": false,
+    "hasThumbnail": false,
+    "hasImagesDir": false,
+    "hasCodeManifest": false,
+    "imageCount": 0
+  },
+  "files": [
+    {
+      "path": "src/App.tsx",
+      "importCount": 34,
+      "imports": [
+        "react",
+        "./components/ui/tabs",
+        "./components/ui/card",
+        "./components/ui/badge",
+        "./components/ui/button",
+        "./components/ui/input",
+        "./components/ui/label",
+        "./components/ui/table",
+        "./components/ui/select",
+        "./components/ui/checkbox",
+        "lucide-react",
+        "./components/wms/LoadingState",
+        "./components/wms/EmptyState",
+        "./components/wms/ErrorState",
+        "./pages/DashboardPage",
+        "./pages/InboundListPage",
+        "./pages/InboundDetailPage",
+        "./pages/OutboundListPage",
+        "./pages/OutboundDetailPage",
+        "./pages/WaveListPage",
+        "./pages/WaveDetailPage",
+        "./pages/PutawayListPage",
+        "./pages/PutawayDetailPage",
+        "./pages/InventoryListPage",
+        "./pages/InventoryTransactionPage"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/components/figma/ImageWithFallback.tsx",
+      "importCount": 1,
+      "imports": [
+        "react"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/layouts/WMSLayout.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../ui/button",
+        "../ui/sidebar"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/components/ui/accordion.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-accordion",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/alert-dialog.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-alert-dialog",
+        "./utils",
+        "./button"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/alert.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "class-variance-authority",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/components/ui/aspect-ratio.tsx",
+      "importCount": 1,
+      "imports": [
+        "@radix-ui/react-aspect-ratio"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/avatar.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-avatar",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/badge.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/breadcrumb.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-slot",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/button.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/calendar.tsx",
+      "importCount": 5,
+      "imports": [
+        "react",
+        "lucide-react",
+        "react-day-picker",
+        "./utils",
+        "./button"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/card.tsx",
+      "importCount": 2,
+      "imports": [
+        "react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/carousel.tsx",
+      "importCount": 5,
+      "imports": [
+        "react",
+        "embla-carousel-react",
+        "lucide-react",
+        "./utils",
+        "./button"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/chart.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "recharts",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/checkbox.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-checkbox",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/collapsible.tsx",
+      "importCount": 1,
+      "imports": [
+        "@radix-ui/react-collapsible"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/command.tsx",
+      "importCount": 5,
+      "imports": [
+        "react",
+        "cmdk",
+        "lucide-react",
+        "./utils",
+        "./dialog"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/context-menu.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-context-menu",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/dialog.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-dialog",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/drawer.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "vaul",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/dropdown-menu.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-dropdown-menu",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/form.tsx",
+      "importCount": 6,
+      "imports": [
+        "react",
+        "@radix-ui/react-label",
+        "@radix-ui/react-slot",
+        "react-hook-form",
+        "./utils",
+        "./label"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/hover-card.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-hover-card",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/input-otp.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "input-otp",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/input.tsx",
+      "importCount": 2,
+      "imports": [
+        "react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/label.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-label",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/menubar.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-menubar",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/navigation-menu.tsx",
+      "importCount": 5,
+      "imports": [
+        "react",
+        "@radix-ui/react-navigation-menu",
+        "class-variance-authority",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/components/ui/pagination.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "lucide-react",
+        "./utils",
+        "./button"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/popover.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-popover",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/progress.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-progress",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/radio-group.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-radio-group",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/resizable.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "lucide-react",
+        "react-resizable-panels",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/scroll-area.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-scroll-area",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/select.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-select",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/components/ui/separator.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-separator",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/sheet.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-dialog",
+        "lucide-react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/sidebar.tsx",
+      "importCount": 12,
+      "imports": [
+        "react",
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "lucide-react",
+        "./use-mobile",
+        "./utils",
+        "./button",
+        "./input",
+        "./separator",
+        "./sheet",
+        "./skeleton",
+        "./tooltip"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/components/ui/skeleton.tsx",
+      "importCount": 1,
+      "imports": [
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/slider.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-slider",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/sonner.tsx",
+      "importCount": 2,
+      "imports": [
+        "next-themes",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/components/ui/switch.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-switch",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/table.tsx",
+      "importCount": 2,
+      "imports": [
+        "react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/tabs.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-tabs",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/textarea.tsx",
+      "importCount": 2,
+      "imports": [
+        "react",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/toggle-group.tsx",
+      "importCount": 5,
+      "imports": [
+        "react",
+        "@radix-ui/react-toggle-group",
+        "class-variance-authority",
+        "./utils",
+        "./toggle"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/toggle.tsx",
+      "importCount": 4,
+      "imports": [
+        "react",
+        "@radix-ui/react-toggle",
+        "class-variance-authority",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/tooltip.tsx",
+      "importCount": 3,
+      "imports": [
+        "react",
+        "@radix-ui/react-tooltip",
+        "./utils"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/use-mobile.ts",
+      "importCount": 1,
+      "imports": [
+        "react"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/ui/utils.ts",
+      "importCount": 2,
+      "imports": [
+        "clsx",
+        "tailwind-merge"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/wms/CloseInboundDialog.tsx",
+      "importCount": 7,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../ui/alert-dialog",
+        "../ui/button",
+        "../ui/label",
+        "../ui/select",
+        "../ui/textarea"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/wms/EmptyState.tsx",
+      "importCount": 2,
+      "imports": [
+        "lucide-react",
+        "../ui/button"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/wms/ErrorState.tsx",
+      "importCount": 3,
+      "imports": [
+        "lucide-react",
+        "../ui/button",
+        "../ui/alert"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/wms/LoadingState.tsx",
+      "importCount": 1,
+      "imports": [
+        "lucide-react"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/components/wms/PutawayDialog.tsx",
+      "importCount": 10,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../ui/dialog",
+        "../ui/button",
+        "../ui/input",
+        "../ui/label",
+        "../ui/badge",
+        "../ui/textarea",
+        "../ui/table",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/components/wms/ReceiveDialog.tsx",
+      "importCount": 11,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../ui/dialog",
+        "../ui/button",
+        "../ui/input",
+        "../ui/label",
+        "../ui/badge",
+        "../ui/select",
+        "../ui/textarea",
+        "../ui/table",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/main.tsx",
+      "importCount": 2,
+      "imports": [
+        "react-dom/client",
+        "./App.tsx"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/pages/ArrivalScanPage.tsx",
+      "importCount": 13,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/card",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/label",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/select",
+        "../components/ui/dialog",
+        "../components/ui/progress",
+        "lucide-react",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/pages/ContainerManagementPage.tsx",
+      "importCount": 12,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/card",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/label",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/dialog",
+        "lucide-react",
+        "../components/wms/LoadingState",
+        "../components/wms/EmptyState"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/CustomerManagementPage.tsx",
+      "importCount": 13,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/dialog",
+        "../components/ui/select",
+        "../components/ui/checkbox",
+        "../components/ui/label",
+        "../components/ui/textarea",
+        "../components/ui/switch",
+        "lucide-react"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/DashboardPage.tsx",
+      "importCount": 8,
+      "imports": [
+        "../components/layouts/WMSLayout",
+        "../components/ui/card",
+        "../components/ui/button",
+        "../components/ui/badge",
+        "../components/ui/progress",
+        "../components/ui/table",
+        "lucide-react",
+        "recharts"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/InboundDetailPage.tsx",
+      "importCount": 12,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/button",
+        "../components/ui/badge",
+        "../components/ui/card",
+        "../components/ui/table",
+        "../components/ui/tabs",
+        "../components/ui/progress",
+        "../components/wms/ReceiveDialog",
+        "../components/wms/CloseInboundDialog",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/InboundListPage.tsx",
+      "importCount": 13,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/select",
+        "../components/ui/checkbox",
+        "../components/ui/tabs",
+        "../components/ui/alert-dialog",
+        "../components/layouts/WMSLayout",
+        "sonner",
+        "../components/wms/ReceiveDialog"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/InventoryListPage.tsx",
+      "importCount": 11,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/select",
+        "../components/ui/checkbox",
+        "../components/ui/tabs",
+        "../components/layouts/WMSLayout",
+        "../components/figma/ImageWithFallback"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/InventoryTransactionPage.tsx",
+      "importCount": 11,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/select",
+        "../components/ui/checkbox",
+        "../components/ui/tabs",
+        "../components/layouts/WMSLayout",
+        "../components/figma/ImageWithFallback"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/LocationManagementPage.tsx",
+      "importCount": 15,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/card",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/label",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/select",
+        "../components/ui/dialog",
+        "../components/ui/switch",
+        "../components/ui/checkbox",
+        "lucide-react",
+        "../components/wms/LoadingState",
+        "../components/wms/EmptyState"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/OutboundCheckPage.tsx",
+      "importCount": 14,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/card",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/label",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/dialog",
+        "../components/ui/tabs",
+        "../components/ui/select",
+        "../components/ui/textarea",
+        "lucide-react",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/pages/OutboundCheckPage_new.tsx",
+      "importCount": 14,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/card",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/label",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/dialog",
+        "../components/ui/tabs",
+        "../components/ui/select",
+        "../components/ui/textarea",
+        "lucide-react",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/pages/OutboundDetailPage.tsx",
+      "importCount": 10,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/button",
+        "../components/ui/badge",
+        "../components/ui/card",
+        "../components/ui/table",
+        "../components/ui/tabs",
+        "../components/ui/progress",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/OutboundListPage.tsx",
+      "importCount": 11,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/select",
+        "../components/ui/checkbox",
+        "../components/ui/tabs",
+        "../components/ui/dropdown-menu",
+        "../components/layouts/WMSLayout"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/ProductMasterDataPage.tsx",
+      "importCount": 14,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/dialog",
+        "../components/ui/select",
+        "../components/ui/checkbox",
+        "../components/ui/label",
+        "../components/ui/textarea",
+        "../components/ui/switch",
+        "../components/figma/ImageWithFallback",
+        "lucide-react"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/PutawayDetailPage.tsx",
+      "importCount": 11,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/ui/button",
+        "../components/ui/badge",
+        "../components/ui/card",
+        "../components/ui/table",
+        "../components/ui/tabs",
+        "../components/layouts/WMSLayout",
+        "../components/wms/PutawayDialog",
+        "../components/ui/progress",
+        "../components/ui/separator"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/PutawayListPage.tsx",
+      "importCount": 13,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/ui/input",
+        "../components/ui/button",
+        "../components/ui/badge",
+        "../components/ui/select",
+        "../components/ui/table",
+        "../components/ui/card",
+        "../components/ui/tabs",
+        "../components/layouts/WMSLayout",
+        "../components/wms/LoadingState",
+        "../components/wms/EmptyState",
+        "../components/wms/PutawayDialog"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/SeedingOperationPage.tsx",
+      "importCount": 13,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/card",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/label",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/dialog",
+        "../components/ui/progress",
+        "../components/ui/checkbox",
+        "lucide-react",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    },
+    {
+      "path": "src/pages/SeedingWallManagementPage.tsx",
+      "importCount": 15,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/card",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/label",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/select",
+        "../components/ui/dialog",
+        "../components/ui/switch",
+        "../components/ui/tabs",
+        "lucide-react",
+        "../components/wms/LoadingState",
+        "../components/wms/EmptyState"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/WaveDetailPage.tsx",
+      "importCount": 10,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/button",
+        "../components/ui/badge",
+        "../components/ui/card",
+        "../components/ui/table",
+        "../components/ui/tabs",
+        "../components/ui/progress",
+        "sonner"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/WaveListPage.tsx",
+      "importCount": 12,
+      "imports": [
+        "react",
+        "lucide-react",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/select",
+        "../components/ui/checkbox",
+        "../components/ui/tabs",
+        "../components/ui/progress",
+        "../components/ui/dropdown-menu",
+        "../components/layouts/WMSLayout"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "src/pages/ZoneManagementPage.tsx",
+      "importCount": 14,
+      "imports": [
+        "react",
+        "../components/layouts/WMSLayout",
+        "../components/ui/card",
+        "../components/ui/button",
+        "../components/ui/input",
+        "../components/ui/label",
+        "../components/ui/badge",
+        "../components/ui/table",
+        "../components/ui/select",
+        "../components/ui/dialog",
+        "../components/ui/switch",
+        "lucide-react",
+        "../components/wms/LoadingState",
+        "../components/wms/EmptyState"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": true
+    },
+    {
+      "path": "vite.config.ts",
+      "importCount": 4,
+      "imports": [
+        "vite",
+        "@vitejs/plugin-react",
+        "@tailwindcss/vite",
+        "path"
+      ],
+      "containsRouteHint": false,
+      "usesCssVariables": false
+    }
+  ]
+}

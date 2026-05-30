@@ -1,0 +1,4 @@
+Title: GPT Image Playground
+Platform: Self-contained prototype
+Source: See in-prototype attribution
+Imported for Axhub Make template library.
