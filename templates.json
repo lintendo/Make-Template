@@ -7,7 +7,22 @@
       "slug": "v0-irl-event-landing-custom-3-d-lanyard",
       "sourcePath": "templates/v0-irl-event-landing-custom-3-d-lanyard",
       "coverPath": "covers/v0-irl-event-landing-custom-3-d-lanyard.webp",
-      "description": "v0 IRL 活动落地页原型，包含 3D 挂绳名牌、活动议程和报名转化体验。来源：v0，https://v0.app/templates/v0-irl-event-landing-custom-3d-lanyard-IegtBb6qiEV。"
+      "description": "v0 IRL 活动落地页原型，包含 3D 挂绳名牌、活动议程和报名转化体验。来源：v0，https://v0.app/templates/v0-irl-event-landing-custom-3d-lanyard-IegtBb6qiEV。",
+      "extraDependencies": [
+        "@radix-ui/react-slot",
+        "@radix-ui/react-tooltip",
+        "@react-three/drei",
+        "@react-three/fiber",
+        "@react-three/rapier",
+        "class-variance-authority",
+        "clsx",
+        "meshline",
+        "next",
+        "postcss-load-config",
+        "react-use-measure",
+        "tailwind-merge",
+        "three"
+      ]
     },
     {
       "id": "enterprise-supply-chain-management-dashboard-community",
@@ -15,7 +30,52 @@
       "slug": "enterprise-supply-chain-management-dashboard-community",
       "sourcePath": "templates/enterprise-supply-chain-management-dashboard-community",
       "coverPath": "covers/enterprise-supply-chain-management-dashboard-community.webp",
-      "description": "企业供应链管理仪表盘原型，覆盖运营概览、供应链指标和业务监控场景。来源：Figma Community，https://www.figma.com/community/file/1539514812839902866/enterprise-supply-chain-management-dashboard。"
+      "description": "企业供应链管理仪表盘原型，覆盖运营概览、供应链指标和业务监控场景。来源：Figma Community，https://www.figma.com/community/file/1539514812839902866/enterprise-supply-chain-management-dashboard。",
+      "extraDependencies": [
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "@tailwindcss/vite",
+        "@vitejs/plugin-react",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "date-fns",
+        "embla-carousel-react",
+        "input-otp",
+        "next-themes",
+        "react-day-picker",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "vaul",
+        "vite"
+      ]
     },
     {
       "id": "gpt-image-playground",
@@ -23,7 +83,15 @@
       "slug": "gpt-image-playground",
       "sourcePath": "templates/gpt-image-playground",
       "coverPath": "covers/gpt-image-playground.webp",
-      "description": "GPT Image Playground 图像生成与编辑工作台原型，来源信息保留在页面自有说明中。来源：Self-contained prototype，页面内自带来源信息。"
+      "description": "GPT Image Playground 图像生成与编辑工作台原型，来源信息保留在页面自有说明中。来源：Self-contained prototype，页面内自带来源信息。",
+      "extraDependencies": [
+        "@fal-ai/client",
+        "fflate",
+        "react-markdown",
+        "remark-gfm",
+        "tailwindcss",
+        "zustand"
+      ]
     },
     {
       "id": "elegance-luxury-e-commerce-template",
@@ -39,7 +107,23 @@
       "slug": "agentic-ai-task-orchestrator",
       "sourcePath": "templates/agentic-ai-task-orchestrator",
       "coverPath": "covers/agentic-ai-task-orchestrator.webp",
-      "description": "多智能体任务编排器原型，展示任务流、Agent 协作和运行状态管理。来源：v0，https://v0.app/templates/agentic-ai-task-orchestrator-jCeGSebTxo0。"
+      "description": "多智能体任务编排器原型，展示任务流、Agent 协作和运行状态管理。来源：v0，https://v0.app/templates/agentic-ai-task-orchestrator-jCeGSebTxo0。",
+      "extraDependencies": [
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-label",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-tooltip",
+        "@xyflow/react",
+        "class-variance-authority",
+        "clsx",
+        "tailwind-merge",
+        "zustand"
+      ]
     },
     {
       "id": "farm-management-dashboard-with-ai-iot-community",
@@ -47,7 +131,51 @@
       "slug": "farm-management-dashboard-with-ai-iot-community",
       "sourcePath": "templates/farm-management-dashboard-with-ai-iot-community",
       "coverPath": "covers/farm-management-dashboard-with-ai-iot-community.webp",
-      "description": "农场 AIoT 管理仪表盘原型，展示农业设备、环境数据和智能管理场景。来源：Figma Community，https://www.figma.com/community/file/1536066541145305362/farm-management-dashboard-with-ai-iot。"
+      "description": "农场 AIoT 管理仪表盘原型，展示农业设备、环境数据和智能管理场景。来源：Figma Community，https://www.figma.com/community/file/1536066541145305362/farm-management-dashboard-with-ai-iot。",
+      "extraDependencies": [
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "@tailwindcss/vite",
+        "@vitejs/plugin-react",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "embla-carousel-react",
+        "input-otp",
+        "next-themes",
+        "react-day-picker",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "vaul",
+        "vite"
+      ]
     },
     {
       "id": "pointer-ai-landing-page",
@@ -55,7 +183,14 @@
       "slug": "pointer-ai-landing-page",
       "sourcePath": "templates/pointer-ai-landing-page",
       "coverPath": "covers/pointer-ai-landing-page.webp",
-      "description": "Pointer AI 产品落地页原型，展示 AI 开发工具卖点、客户证言和定价模块。来源：v0，https://v0.app/templates/pointer-ai-landing-page-XQxxv76lK5w。"
+      "description": "Pointer AI 产品落地页原型，展示 AI 开发工具卖点、客户证言和定价模块。来源：v0，https://v0.app/templates/pointer-ai-landing-page-XQxxv76lK5w。",
+      "extraDependencies": [
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "clsx",
+        "tailwind-merge"
+      ]
     },
     {
       "id": "zip-6",
@@ -63,7 +198,51 @@
       "slug": "zip-6",
       "sourcePath": "templates/zip-6",
       "coverPath": "covers/zip-6.webp",
-      "description": "CMSFullForm 管理后台原型，覆盖 CMS 仪表盘、SaaS 仪表盘、插件和设置等后台页面。来源：v0，https://v0.app/templates/cms-full-form-admin-dashboard-tailwind-templates-d7j5B58dlp4。"
+      "description": "CMSFullForm 管理后台原型，覆盖 CMS 仪表盘、SaaS 仪表盘、插件和设置等后台页面。来源：v0，https://v0.app/templates/cms-full-form-admin-dashboard-tailwind-templates-d7j5B58dlp4。",
+      "extraDependencies": [
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toast",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "embla-carousel-react",
+        "input-otp",
+        "next",
+        "react-day-picker",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "tailwindcss",
+        "tailwindcss-animate",
+        "vaul"
+      ]
     },
     {
       "id": "aura-quiet-living",
@@ -71,7 +250,10 @@
       "slug": "aura-quiet-living",
       "sourcePath": "templates/aura-quiet-living",
       "coverPath": "covers/aura-quiet-living.webp",
-      "description": "静谧生活方式电商体验原型，包含商品浏览、品牌氛围和 AI 礼宾助手。来源：Google AI Studio，https://aistudio.google.com/apps/bundled/aura_quiet_living?showPreview=true&showAssistant=true。"
+      "description": "静谧生活方式电商体验原型，包含商品浏览、品牌氛围和 AI 礼宾助手。来源：Google AI Studio，https://aistudio.google.com/apps/bundled/aura_quiet_living?showPreview=true&showAssistant=true。",
+      "extraDependencies": [
+        "@google/genai"
+      ]
     },
     {
       "id": "3-d-galaxy-page",
@@ -79,7 +261,18 @@
       "slug": "3-d-galaxy-page",
       "sourcePath": "templates/3-d-galaxy-page",
       "coverPath": "covers/3-d-galaxy-page.webp",
-      "description": "沉浸式 3D 银河浏览体验原型，适合展示空间导航与视觉探索场景。来源：v0，https://v0.app/templates/3d-galaxy-page-jAKW17eb3Os。"
+      "description": "沉浸式 3D 银河浏览体验原型，适合展示空间导航与视觉探索场景。来源：v0，https://v0.app/templates/3d-galaxy-page-jAKW17eb3Os。",
+      "extraDependencies": [
+        "@radix-ui/react-label",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@react-three/drei",
+        "@react-three/fiber",
+        "class-variance-authority",
+        "clsx",
+        "tailwind-merge",
+        "three"
+      ]
     },
     {
       "id": "sales-ops-dashboard",
@@ -87,7 +280,48 @@
       "slug": "sales-ops-dashboard",
       "sourcePath": "templates/sales-ops-dashboard",
       "coverPath": "covers/sales-ops-dashboard.webp",
-      "description": "SalesOps 销售运营仪表盘原型，包含收入指标、团队绩效、客户和销售漏斗视图。来源：v0，https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi。"
+      "description": "SalesOps 销售运营仪表盘原型，包含收入指标、团队绩效、客户和销售漏斗视图。来源：v0，https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi。",
+      "extraDependencies": [
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toast",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "embla-carousel-react",
+        "input-otp",
+        "react-day-picker",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "vaul"
+      ]
     },
     {
       "id": "katachi",
@@ -95,7 +329,11 @@
       "slug": "katachi",
       "sourcePath": "templates/katachi",
       "coverPath": "covers/katachi.webp",
-      "description": "家具品牌官网原型，覆盖品牌首页、材质表达、空间展示和订阅转化。来源：v0，https://v0.app/templates/katachi-6rnQUvOhgnB。"
+      "description": "家具品牌官网原型，覆盖品牌首页、材质表达、空间展示和订阅转化。来源：v0，https://v0.app/templates/katachi-6rnQUvOhgnB。",
+      "extraDependencies": [
+        "clsx",
+        "tailwind-merge"
+      ]
     },
     {
       "id": "zhipu",
@@ -111,7 +349,52 @@
       "slug": "perplexity-ai-clone-chat-ui-design",
       "sourcePath": "templates/perplexity-ai-clone-chat-ui-design",
       "coverPath": "covers/perplexity-ai-clone-chat-ui-design.webp",
-      "description": "Perplexity 风格 AI 聊天搜索界面原型，包含侧边栏、会话输入和升级弹窗体验。来源：v0，https://v0.app/templates/perplexity-ai-clone-chat-ui-design-25Jd26Tc5gR。"
+      "description": "Perplexity 风格 AI 聊天搜索界面原型，包含侧边栏、会话输入和升级弹窗体验。来源：v0，https://v0.app/templates/perplexity-ai-clone-chat-ui-design-25Jd26Tc5gR。",
+      "extraDependencies": [
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toast",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "@vercel/analytics",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "embla-carousel-react",
+        "input-otp",
+        "next",
+        "next-themes",
+        "postcss-load-config",
+        "react-day-picker",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "vaul"
+      ]
     },
     {
       "id": "modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr",
@@ -119,7 +402,12 @@
       "slug": "modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr",
       "sourcePath": "templates/modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr",
       "coverPath": "covers/modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr.webp",
-      "description": "Gen Z 能量饮料品牌官网原型，包含产品展示、动效滚动和营销转化模块。来源：v0，https://v0.app/templates/modern-gen-z-energy-drink-landing-page-with-lenis-IQDdAvEEGsS。"
+      "description": "Gen Z 能量饮料品牌官网原型，包含产品展示、动效滚动和营销转化模块。来源：v0，https://v0.app/templates/modern-gen-z-energy-drink-landing-page-with-lenis-IQDdAvEEGsS。",
+      "extraDependencies": [
+        "clsx",
+        "lenis",
+        "tailwind-merge"
+      ]
     },
     {
       "id": "financial-dashboard",
@@ -127,7 +415,52 @@
       "slug": "financial-dashboard",
       "sourcePath": "templates/financial-dashboard",
       "coverPath": "covers/financial-dashboard.webp",
-      "description": "财务数据仪表盘原型，展示关键指标、趋势图表和业务概览。来源：v0，https://v0.app/templates/financial-dashboard-DuidKNEmCKf。"
+      "description": "财务数据仪表盘原型，展示关键指标、趋势图表和业务概览。来源：v0，https://v0.app/templates/financial-dashboard-DuidKNEmCKf。",
+      "extraDependencies": [
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toast",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "embla-carousel-react",
+        "input-otp",
+        "next",
+        "postcss-load-config",
+        "react-day-picker",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "tailwindcss",
+        "tailwindcss-animate",
+        "vaul"
+      ]
     },
     {
       "id": "evasion-e-commerce-template",
@@ -135,7 +468,11 @@
       "slug": "evasion-e-commerce-template",
       "sourcePath": "templates/evasion-e-commerce-template",
       "coverPath": "covers/evasion-e-commerce-template.webp",
-      "description": "户外电商品牌官网原型，覆盖产品陈列、场景化营销和购物转化体验。来源：v0，https://v0.app/templates/evasion-ecommerce-template-annqMtFCROP。"
+      "description": "户外电商品牌官网原型，覆盖产品陈列、场景化营销和购物转化体验。来源：v0，https://v0.app/templates/evasion-ecommerce-template-annqMtFCROP。",
+      "extraDependencies": [
+        "clsx",
+        "tailwind-merge"
+      ]
     },
     {
       "id": "optimus-the-ai-platform-to-build-and-ship",
@@ -143,7 +480,13 @@
       "slug": "optimus-the-ai-platform-to-build-and-ship",
       "sourcePath": "templates/optimus-the-ai-platform-to-build-and-ship",
       "coverPath": "covers/optimus-the-ai-platform-to-build-and-ship.webp",
-      "description": "Optimus AI 平台官网原型，展示 AI 构建发布平台的产品能力、安全和开发者体验。来源：v0，https://v0.app/templates/optimus-the-ai-platform-to-build-and-ship-LHv4frpA7Us。"
+      "description": "Optimus AI 平台官网原型，展示 AI 构建发布平台的产品能力、安全和开发者体验。来源：v0，https://v0.app/templates/optimus-the-ai-platform-to-build-and-ship-LHv4frpA7Us。",
+      "extraDependencies": [
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "clsx",
+        "tailwind-merge"
+      ]
     },
     {
       "id": "essence-elegant-showcase-template-for-brands",
@@ -151,7 +494,11 @@
       "slug": "essence-elegant-showcase-template-for-brands",
       "sourcePath": "templates/essence-elegant-showcase-template-for-brands",
       "coverPath": "covers/essence-elegant-showcase-template-for-brands.webp",
-      "description": "高级餐饮品牌展示页原型，覆盖品牌理念、菜单视觉和预约转化场景。来源：v0，https://v0.app/templates/essence-elegant-showcase-template-for-brands-ncdfEYFL1p9。"
+      "description": "高级餐饮品牌展示页原型，覆盖品牌理念、菜单视觉和预约转化场景。来源：v0，https://v0.app/templates/essence-elegant-showcase-template-for-brands-ncdfEYFL1p9。",
+      "extraDependencies": [
+        "clsx",
+        "tailwind-merge"
+      ]
     },
     {
       "id": "zip-3",
@@ -159,7 +506,47 @@
       "slug": "zip-3",
       "sourcePath": "templates/zip-3",
       "coverPath": "covers/zip-3.webp",
-      "description": "Apex 企业 SaaS 官网原型，覆盖产品能力、企业级卖点和落地页转化路径。来源：v0，https://v0.app/templates/premium-saas-landing-page-zgEs6kEZIMQ。"
+      "description": "Apex 企业 SaaS 官网原型，覆盖产品能力、企业级卖点和落地页转化路径。来源：v0，https://v0.app/templates/premium-saas-landing-page-zgEs6kEZIMQ。",
+      "extraDependencies": [
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "embla-carousel-react",
+        "input-otp",
+        "next-themes",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "vaul"
+      ]
     },
     {
       "id": "brutalist-ai-saa-s-landing-page",
@@ -167,7 +554,11 @@
       "slug": "brutalist-ai-saa-s-landing-page",
       "sourcePath": "templates/brutalist-ai-saa-s-landing-page",
       "coverPath": "covers/brutalist-ai-saa-s-landing-page.webp",
-      "description": "Brutalist 风格 AI SaaS 落地页原型，突出强对比排版、产品卖点和转化模块。来源：v0，https://v0.app/templates/brutalist-ai-saas-landing-page-6QYngsI1qTp。"
+      "description": "Brutalist 风格 AI SaaS 落地页原型，突出强对比排版、产品卖点和转化模块。来源：v0，https://v0.app/templates/brutalist-ai-saas-landing-page-6QYngsI1qTp。",
+      "extraDependencies": [
+        "clsx",
+        "tailwind-merge"
+      ]
     },
     {
       "id": "interface",
@@ -175,7 +566,13 @@
       "slug": "interface",
       "sourcePath": "templates/interface",
       "coverPath": "covers/interface.webp",
-      "description": "SIGNAL 实验创意工作室官网原型，展示创意项目、工作室形象和品牌内容。来源：v0，https://v0.app/templates/interface-XhGK3naSZPB。"
+      "description": "SIGNAL 实验创意工作室官网原型，展示创意项目、工作室形象和品牌内容。来源：v0，https://v0.app/templates/interface-XhGK3naSZPB。",
+      "extraDependencies": [
+        "clsx",
+        "gsap",
+        "lenis",
+        "tailwind-merge"
+      ]
     },
     {
       "id": "wms-by-vitamin-community",
@@ -183,7 +580,50 @@
       "slug": "wms-by-vitamin-community",
       "sourcePath": "templates/wms-by-vitamin-community",
       "coverPath": "covers/wms-by-vitamin-community.webp",
-      "description": "仓储管理系统 WMS 多页面后台原型，保留设计系统总览、入库、出库、库存和基础资料等模块。原作者：vitamin，Figma 主页：https://www.figma.com/@vitamin2。"
+      "description": "仓储管理系统 WMS 多页面后台原型，保留设计系统总览、入库、出库、库存和基础资料等模块。原作者：vitamin，Figma 主页：https://www.figma.com/@vitamin2。",
+      "extraDependencies": [
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "@tailwindcss/vite",
+        "@vitejs/plugin-react",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "embla-carousel-react",
+        "input-otp",
+        "react-day-picker",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "vaul",
+        "vite"
+      ]
     },
     {
       "id": "jdfinance-1",
