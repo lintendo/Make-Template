@@ -54,7 +54,7 @@
       "tokenPath": "design-systems/mastercard/designToken.json",
       "stylePath": "design-systems/mastercard/globals.css",
       "description": "Mastercard 的 Design.md 主题展示，围绕金融科技、暖色调、编辑/机构、数据仪表盘组织页面。",
-      "coverPath": "design-systems/mastercard/assets/official-homepage.webp"
+      "coverPath": "design-systems/mastercard/assets/mastercard-design-system-cover.webp"
     },
     {
       "id": "bugatti",
