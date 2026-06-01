@@ -22,7 +22,8 @@
         "react-use-measure",
         "tailwind-merge",
         "three"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "enterprise-supply-chain-management-dashboard-community",
@@ -75,7 +76,8 @@
         "tailwind-merge",
         "vaul",
         "vite"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "gpt-image-playground",
@@ -91,7 +93,8 @@
         "remark-gfm",
         "tailwindcss",
         "zustand"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "elegance-luxury-e-commerce-template",
@@ -99,7 +102,9 @@
       "slug": "elegance-luxury-e-commerce-template",
       "sourcePath": "templates/elegance-luxury-e-commerce-template",
       "coverPath": "covers/elegance-luxury-e-commerce-template.webp",
-      "description": "奢华电商品牌官网原型，包含高端商品展示、品牌叙事和购物转化体验。来源：v0，https://v0.app/templates/elegance-luxury-ecommerce-template-DFxRolInCJp。"
+      "description": "奢华电商品牌官网原型，包含高端商品展示、品牌叙事和购物转化体验。来源：v0，https://v0.app/templates/elegance-luxury-ecommerce-template-DFxRolInCJp。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": []
     },
     {
       "id": "agentic-ai-task-orchestrator",
@@ -123,7 +128,8 @@
         "clsx",
         "tailwind-merge",
         "zustand"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "farm-management-dashboard-with-ai-iot-community",
@@ -175,7 +181,8 @@
         "tailwind-merge",
         "vaul",
         "vite"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "pointer-ai-landing-page",
@@ -190,7 +197,8 @@
         "class-variance-authority",
         "clsx",
         "tailwind-merge"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "zip-6",
@@ -242,7 +250,8 @@
         "tailwindcss",
         "tailwindcss-animate",
         "vaul"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "aura-quiet-living",
@@ -253,7 +262,8 @@
       "description": "静谧生活方式电商体验原型，包含商品浏览、品牌氛围和 AI 礼宾助手。来源：Google AI Studio，https://aistudio.google.com/apps/bundled/aura_quiet_living?showPreview=true&showAssistant=true。",
       "extraDependencies": [
         "@google/genai"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "3-d-galaxy-page",
@@ -272,7 +282,8 @@
         "clsx",
         "tailwind-merge",
         "three"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "sales-ops-dashboard",
@@ -321,7 +332,8 @@
         "sonner",
         "tailwind-merge",
         "vaul"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "katachi",
@@ -333,7 +345,8 @@
       "extraDependencies": [
         "clsx",
         "tailwind-merge"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "zhipu",
@@ -341,7 +354,9 @@
       "slug": "zhipu",
       "sourcePath": "templates/zhipu",
       "coverPath": "covers/zhipu.webp",
-      "description": "智谱清言移动端多页面原型，覆盖首页、侧边导航、个人中心、智能体广场、AI 搜索和 AI 画图等核心路径。"
+      "description": "智谱清言移动端多页面原型，覆盖首页、侧边导航、个人中心、智能体广场、AI 搜索和 AI 画图等核心路径。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": []
     },
     {
       "id": "perplexity-ai-clone-chat-ui-design",
@@ -394,7 +409,8 @@
         "sonner",
         "tailwind-merge",
         "vaul"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr",
@@ -407,7 +423,8 @@
         "clsx",
         "lenis",
         "tailwind-merge"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "financial-dashboard",
@@ -460,7 +477,8 @@
         "tailwindcss",
         "tailwindcss-animate",
         "vaul"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "evasion-e-commerce-template",
@@ -472,7 +490,8 @@
       "extraDependencies": [
         "clsx",
         "tailwind-merge"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "optimus-the-ai-platform-to-build-and-ship",
@@ -486,7 +505,8 @@
         "class-variance-authority",
         "clsx",
         "tailwind-merge"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "essence-elegant-showcase-template-for-brands",
@@ -498,7 +518,8 @@
       "extraDependencies": [
         "clsx",
         "tailwind-merge"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "zip-3",
@@ -546,7 +567,8 @@
         "sonner",
         "tailwind-merge",
         "vaul"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "brutalist-ai-saa-s-landing-page",
@@ -558,7 +580,8 @@
       "extraDependencies": [
         "clsx",
         "tailwind-merge"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "interface",
@@ -572,7 +595,8 @@
         "gsap",
         "lenis",
         "tailwind-merge"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "wms-by-vitamin-community",
@@ -623,7 +647,8 @@
         "tailwind-merge",
         "vaul",
         "vite"
-      ]
+      ],
+      "requiresDependencyInstall": true
     },
     {
       "id": "jdfinance-1",
@@ -631,7 +656,9 @@
       "slug": "jdfinance-1",
       "sourcePath": "templates/jdfinance-1",
       "coverPath": "covers/jdfinance-1.webp",
-      "description": "京东金融移动端 App 原型模板，覆盖首页、理财、省钱、社区、基金、小金库、借贷、保险和我的等核心路径。"
+      "description": "京东金融移动端 App 原型模板，覆盖首页、理财、省钱、社区、基金、小金库、借贷、保险和我的等核心路径。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": []
     },
     {
       "id": "beginner-guide",
@@ -639,7 +666,9 @@
       "slug": "beginner-guide",
       "sourcePath": "templates/beginner-guide",
       "coverPath": "covers/beginner-guide.webp",
-      "description": "Axhub Make 新手入门指导模板，覆盖安装 Agent、选择模型、下达指令、创建编辑和发布原型。"
+      "description": "Axhub Make 新手入门指导模板，覆盖安装 Agent、选择模型、下达指令、创建编辑和发布原型。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": []
     },
     {
       "id": "annotation-demo",
@@ -647,7 +676,235 @@
       "slug": "annotation-demo",
       "sourcePath": "templates/annotation-demo",
       "coverPath": "covers/annotation-demo.webp",
-      "description": "原型即 PRD 的标注能力演示模板，展示内容标注、状态标注、原型目录和生成标注。"
+      "description": "原型即 PRD 的标注能力演示模板，展示内容标注、状态标注、原型目录和生成标注。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": []
+    },
+    {
+      "id": "Netflix",
+      "title": "Netflix",
+      "slug": "Netflix",
+      "sourcePath": "templates/Netflix",
+      "coverPath": "covers/Netflix.webp",
+      "description": "Netflix 多页面移动端原型，覆盖登录、首页、搜索、下载和用户选择等核心体验。来源：当前 Make 项目。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "lucide-react"
+      ]
+    },
+    {
+      "id": "chat-gpt-theme-built-with-tinte",
+      "title": "ChatGPT Tinte 主题组件集",
+      "slug": "chat-gpt-theme-built-with-tinte",
+      "sourcePath": "templates/chat-gpt-theme-built-with-tinte",
+      "coverPath": "covers/chat-gpt-theme-built-with-tinte.webp",
+      "description": "ChatGPT/Tinte 风格 shadcn 新组件展示原型，覆盖 Button Group、Input Group、Field、Item、Spinner 等组件样例。来源：当前 Make 项目 / v0 转换。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "lucide-react"
+      ]
+    },
+    {
+      "id": "electric-landing-page-template",
+      "title": "Electric AI 客服落地页",
+      "slug": "electric-landing-page-template",
+      "sourcePath": "templates/electric-landing-page-template",
+      "coverPath": "covers/electric-landing-page-template.webp",
+      "description": "Electric AI 客服落地页原型，覆盖产品介绍、用例、定价、视频画廊和转化 CTA。来源：当前 Make 项目 / v0 转换。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "lucide-react"
+      ]
+    },
+    {
+      "id": "modern-landing-page-for-webdevelopement",
+      "title": "MSwebdesign 官网落地页",
+      "slug": "modern-landing-page-for-webdevelopement",
+      "sourcePath": "templates/modern-landing-page-for-webdevelopement",
+      "coverPath": "covers/modern-landing-page-for-webdevelopement.webp",
+      "description": "MSwebdesign 现代网页开发服务官网原型，覆盖服务、作品集、报价流程、定价和联系转化。来源：当前 Make 项目 / v0 转换。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "@hookform/resolvers",
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toast",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "date-fns",
+        "embla-carousel-react",
+        "input-otp",
+        "lucide-react",
+        "react-day-picker",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "tailwindcss-animate",
+        "tw-animate-css",
+        "vaul",
+        "zod"
+      ]
+    },
+    {
+      "id": "new-components-shadcn-ui",
+      "title": "Shadcn 新组件展示",
+      "slug": "new-components-shadcn-ui",
+      "sourcePath": "templates/new-components-shadcn-ui",
+      "coverPath": "covers/new-components-shadcn-ui.webp",
+      "description": "shadcn/ui 新组件展示原型，包含 Button Group、Input Group、Field、Item、Spinner 等组件组合。来源：当前 Make 项目 / v0 转换。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "lucide-react"
+      ]
+    },
+    {
+      "id": "sketch-website",
+      "title": "Sketch 官网",
+      "slug": "sketch-website",
+      "sourcePath": "templates/sketch-website",
+      "coverPath": "covers/sketch-website.webp",
+      "description": "Sketch 官网多页面原型，覆盖产品、协作、价格、博客、应用和支持等官网页面。来源：当前 Make 项目。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": []
+    },
+    {
+      "id": "slack_app",
+      "title": "Slack App",
+      "slug": "slack_app",
+      "sourcePath": "templates/slack_app",
+      "coverPath": "covers/slack_app.webp",
+      "description": "Slack App 多页面产品原型，覆盖登录引导、工作区、频道、搜索、文件和 Slackbot 聊天等流程。来源：当前 Make 项目。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "lucide-react"
+      ]
+    },
+    {
+      "id": "terra-landing-page",
+      "title": "TERRA 森林保护落地页",
+      "slug": "terra-landing-page",
+      "sourcePath": "templates/terra-landing-page",
+      "coverPath": "covers/terra-landing-page.webp",
+      "description": "TERRA 森林保护落地页原型，展示森林监测、无人机、生物多样性和公益转化场景。来源：当前 Make 项目 / v0 转换。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "lucide-react"
+      ]
+    },
+    {
+      "id": "ugc-video-ai-agent-workflow",
+      "title": "UGC Video AI Agent 工作流",
+      "slug": "ugc-video-ai-agent-workflow",
+      "sourcePath": "templates/ugc-video-ai-agent-workflow",
+      "coverPath": "covers/ugc-video-ai-agent-workflow.webp",
+      "description": "UGC Video AI Agent 工作流构建器原型，展示节点编排、执行面板、运行记录和 AI 视频生成流程。来源：当前 Make 项目 / v0 转换。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "@fal-ai/client",
+        "@hookform/resolvers",
+        "@neondatabase/serverless",
+        "@opentelemetry/api",
+        "@radix-ui/react-accordion",
+        "@radix-ui/react-alert-dialog",
+        "@radix-ui/react-aspect-ratio",
+        "@radix-ui/react-avatar",
+        "@radix-ui/react-checkbox",
+        "@radix-ui/react-collapsible",
+        "@radix-ui/react-context-menu",
+        "@radix-ui/react-dialog",
+        "@radix-ui/react-dropdown-menu",
+        "@radix-ui/react-hover-card",
+        "@radix-ui/react-label",
+        "@radix-ui/react-menubar",
+        "@radix-ui/react-navigation-menu",
+        "@radix-ui/react-popover",
+        "@radix-ui/react-progress",
+        "@radix-ui/react-radio-group",
+        "@radix-ui/react-scroll-area",
+        "@radix-ui/react-select",
+        "@radix-ui/react-separator",
+        "@radix-ui/react-slider",
+        "@radix-ui/react-slot",
+        "@radix-ui/react-switch",
+        "@radix-ui/react-tabs",
+        "@radix-ui/react-toast",
+        "@radix-ui/react-toggle",
+        "@radix-ui/react-toggle-group",
+        "@radix-ui/react-tooltip",
+        "@vercel/analytics",
+        "@vercel/blob",
+        "@xyflow/react",
+        "ai",
+        "class-variance-authority",
+        "clsx",
+        "cmdk",
+        "date-fns",
+        "embla-carousel-react",
+        "geist",
+        "input-otp",
+        "lucide-react",
+        "next-themes",
+        "react-day-picker",
+        "react-hook-form",
+        "react-resizable-panels",
+        "recharts",
+        "sonner",
+        "tailwind-merge",
+        "tailwindcss-animate",
+        "tw-animate-css",
+        "vaul",
+        "workflow",
+        "zod"
+      ]
+    },
+    {
+      "id": "your-saa-s-saa-s-landing-page",
+      "title": "安行驾校落地页",
+      "slug": "your-saa-s-saa-s-landing-page",
+      "sourcePath": "templates/your-saa-s-saa-s-landing-page",
+      "coverPath": "covers/your-saa-s-saa-s-landing-page.webp",
+      "description": "安行驾校 SaaS 风格落地页原型，包含功能卖点、流程、价格、社证和预约转化模块。来源：当前 Make 项目 / v0 转换。",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "@radix-ui/react-slot",
+        "class-variance-authority",
+        "lucide-react"
+      ]
     }
   ]
 }
