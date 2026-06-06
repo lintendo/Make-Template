@@ -702,9 +702,9 @@
       "extraDependencies": []
     },
     {
-      "id": "Netflix",
+      "id": "netflix",
       "title": "Netflix",
-      "slug": "Netflix",
+      "slug": "netflix",
       "sourcePath": "templates/Netflix",
       "coverPath": "covers/Netflix.webp",
       "description": "Netflix 多页面移动端原型，覆盖登录、首页、搜索、下载和用户选择等核心体验。来源：当前 Make 项目。",
@@ -826,9 +826,9 @@
       "extraDependencies": []
     },
     {
-      "id": "slack_app",
+      "id": "slack-app",
       "title": "Slack App",
-      "slug": "slack_app",
+      "slug": "slack-app",
       "sourcePath": "templates/slack_app",
       "coverPath": "covers/slack_app.webp",
       "description": "Slack App 多页面产品原型，覆盖登录引导、工作区、频道、搜索、文件和 Slackbot 聊天等流程。来源：当前 Make 项目。",
