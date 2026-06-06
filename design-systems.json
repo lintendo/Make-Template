@@ -10,7 +10,8 @@
       "tokenPath": "design-systems/hp/designToken.json",
       "stylePath": "design-systems/hp/globals.css",
       "description": "HP 的 Design.md 主题展示，围绕消费品牌、电商零售、品牌展示、移动端组织页面。",
-      "coverPath": "design-systems/hp/assets/official-homepage.webp"
+      "coverPath": "design-systems/hp/assets/official-homepage.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/hp/assets/preview.html"
     },
     {
       "id": "bmw-m",
@@ -21,7 +22,8 @@
       "tokenPath": "design-systems/bmw-m/designToken.json",
       "stylePath": "design-systems/bmw-m/globals.css",
       "description": "BMW M 的 Design.md 主题展示，围绕SaaS 产品、开发工具、浅色界面组织页面。",
-      "coverPath": "design-systems/bmw-m/assets/official-homepage.webp"
+      "coverPath": "design-systems/bmw-m/assets/official-homepage.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/bmw-m/assets/preview.html"
     },
     {
       "id": "vodafone",
@@ -32,7 +34,8 @@
       "tokenPath": "design-systems/vodafone/designToken.json",
       "stylePath": "design-systems/vodafone/globals.css",
       "description": "Vodafone 的 Design.md 主题展示，围绕消费品牌、电商零售、品牌展示组织页面。",
-      "coverPath": "design-systems/vodafone/assets/official-homepage.webp"
+      "coverPath": "design-systems/vodafone/assets/official-homepage.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/vodafone/assets/preview.html"
     },
     {
       "id": "starbucks",
@@ -43,7 +46,8 @@
       "tokenPath": "design-systems/starbucks/designToken.json",
       "stylePath": "design-systems/starbucks/globals.css",
       "description": "Starbucks 的 Design.md 主题展示，围绕暖色调、消费品牌、电商零售、品牌展示组织页面。",
-      "coverPath": "design-systems/starbucks/assets/official-homepage.webp"
+      "coverPath": "design-systems/starbucks/assets/official-homepage.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/starbucks/assets/preview.html"
     },
     {
       "id": "mastercard",
@@ -54,7 +58,8 @@
       "tokenPath": "design-systems/mastercard/designToken.json",
       "stylePath": "design-systems/mastercard/globals.css",
       "description": "Mastercard 的 Design.md 主题展示，围绕金融科技、暖色调、编辑/机构、数据仪表盘组织页面。",
-      "coverPath": "design-systems/mastercard/assets/mastercard-design-system-cover.webp"
+      "coverPath": "design-systems/mastercard/assets/mastercard-design-system-cover.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/mastercard/assets/preview.html"
     },
     {
       "id": "bugatti",
@@ -65,7 +70,8 @@
       "tokenPath": "design-systems/bugatti/designToken.json",
       "stylePath": "design-systems/bugatti/globals.css",
       "description": "Bugatti 的 Design.md 主题展示，围绕SaaS 产品、开发工具、浅色界面组织页面。",
-      "coverPath": "design-systems/bugatti/assets/official-homepage.webp"
+      "coverPath": "design-systems/bugatti/assets/official-homepage.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/bugatti/assets/preview.html"
     },
     {
       "id": "the-verge",
@@ -76,7 +82,8 @@
       "tokenPath": "design-systems/the-verge/designToken.json",
       "stylePath": "design-systems/the-verge/globals.css",
       "description": "The Verge 的 Design.md 主题展示，围绕编辑/机构、媒体内容、消费品牌、电商零售组织页面。",
-      "coverPath": "design-systems/the-verge/assets/official-homepage.webp"
+      "coverPath": "design-systems/the-verge/assets/official-homepage.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/the-verge/assets/preview.html"
     },
     {
       "id": "wired",
@@ -87,7 +94,8 @@
       "tokenPath": "design-systems/wired/designToken.json",
       "stylePath": "design-systems/wired/globals.css",
       "description": "Wired 的 Design.md 主题展示，围绕消费品牌、电商零售、品牌展示组织页面。",
-      "coverPath": "design-systems/wired/assets/official-homepage.webp"
+      "coverPath": "design-systems/wired/assets/official-homepage.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/wired/assets/preview.html"
     },
     {
       "id": "playstation",
@@ -98,7 +106,8 @@
       "tokenPath": "design-systems/playstation/designToken.json",
       "stylePath": "design-systems/playstation/globals.css",
       "description": "Playstation 的 Design.md 主题展示，围绕游戏娱乐、消费品牌、电商零售、品牌展示组织页面。",
-      "coverPath": "design-systems/playstation/assets/official-homepage.webp"
+      "coverPath": "design-systems/playstation/assets/official-homepage.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/playstation/assets/preview.html"
     },
     {
       "id": "meta",
@@ -109,7 +118,8 @@
       "tokenPath": "design-systems/meta/designToken.json",
       "stylePath": "design-systems/meta/globals.css",
       "description": "Meta 的 Design.md 主题展示，围绕浅色界面、暗色界面、SaaS 产品、开发工具组织页面。",
-      "coverPath": "design-systems/meta/assets/official-homepage.webp"
+      "coverPath": "design-systems/meta/assets/official-homepage.webp",
+      "previewUrl": "https://lintendo.github.io/Make-Template/design-systems/meta/assets/preview.html"
     }
   ]
 }
