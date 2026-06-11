@@ -702,6 +702,19 @@
       "extraDependencies": []
     },
     {
+      "id": "touch-and-talk-annotation-demo",
+      "title": "Touch And Talk 批注演示",
+      "slug": "touch-and-talk-annotation-demo",
+      "sourcePath": "templates/touch-and-talk-annotation-demo",
+      "coverPath": "covers/touch-and-talk-annotation-demo.webp",
+      "description": "Touch And Talk 批注演示模板，展示通过点选元素、语音批注和 AI 执行来快速表达页面修改意图。来源：当前 Make 项目。",
+      "previewUrl": "https://lintendo.github.io/Make-Template/previews/touch-and-talk-annotation-demo/",
+      "requiresDependencyInstall": true,
+      "extraDependencies": [
+        "lucide-react"
+      ]
+    },
+    {
       "id": "netflix",
       "title": "Netflix",
       "slug": "netflix",
