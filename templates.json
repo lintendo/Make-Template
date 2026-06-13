@@ -7,7 +7,9 @@
       "slug": "v0-irl-event-landing-custom-3-d-lanyard",
       "sourcePath": "templates/v0-irl-event-landing-custom-3-d-lanyard",
       "coverPath": "covers/v0-irl-event-landing-custom-3-d-lanyard.webp",
-      "description": "v0 IRL 活动落地页原型，包含 3D 挂绳名牌、活动议程和报名转化体验。来源：v0，https://v0.app/templates/v0-irl-event-landing-custom-3d-lanyard-IegtBb6qiEV。",
+      "description": "v0 IRL 活动落地页原型，包含 3D 挂绳名牌、活动议程和报名转化体验。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/v0-irl-event-landing-custom-3d-lanyard-IegtBb6qiEV",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/v0-irl-event-landing-custom-3-d-lanyard/",
       "extraDependencies": [
         "@radix-ui/react-slot",
@@ -32,7 +34,9 @@
       "slug": "enterprise-supply-chain-management-dashboard-community",
       "sourcePath": "templates/enterprise-supply-chain-management-dashboard-community",
       "coverPath": "covers/enterprise-supply-chain-management-dashboard-community.webp",
-      "description": "企业供应链管理仪表盘原型，覆盖运营概览、供应链指标和业务监控场景。来源：Figma Community，https://www.figma.com/community/file/1539514812839902866/enterprise-supply-chain-management-dashboard。",
+      "description": "企业供应链管理仪表盘原型，覆盖运营概览、供应链指标和业务监控场景。",
+      "author": "Suraj Bhat",
+      "authorUrl": "https://www.figma.com/@2f705619_bfe5_4",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/enterprise-supply-chain-management-dashboard-community/",
       "extraDependencies": [
         "@radix-ui/react-accordion",
@@ -87,7 +91,7 @@
       "slug": "gpt-image-playground",
       "sourcePath": "templates/gpt-image-playground",
       "coverPath": "covers/gpt-image-playground.webp",
-      "description": "GPT Image Playground 图像生成与编辑工作台原型，来源信息保留在页面自有说明中。来源：Self-contained prototype，页面内自带来源信息。",
+      "description": "GPT Image Playground 图像生成与编辑工作台原型，来源信息保留在页面自有说明中。",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/gpt-image-playground/",
       "extraDependencies": [
         "@fal-ai/client",
@@ -105,7 +109,9 @@
       "slug": "elegance-luxury-e-commerce-template",
       "sourcePath": "templates/elegance-luxury-e-commerce-template",
       "coverPath": "covers/elegance-luxury-e-commerce-template.webp",
-      "description": "奢华电商品牌官网原型，包含高端商品展示、品牌叙事和购物转化体验。来源：v0，https://v0.app/templates/elegance-luxury-ecommerce-template-DFxRolInCJp。",
+      "description": "奢华电商品牌官网原型，包含高端商品展示、品牌叙事和购物转化体验。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/elegance-luxury-ecommerce-template-DFxRolInCJp",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/elegance-luxury-e-commerce-template/",
       "requiresDependencyInstall": true,
       "extraDependencies": []
@@ -116,7 +122,9 @@
       "slug": "agentic-ai-task-orchestrator",
       "sourcePath": "templates/agentic-ai-task-orchestrator",
       "coverPath": "covers/agentic-ai-task-orchestrator.webp",
-      "description": "多智能体任务编排器原型，展示任务流、Agent 协作和运行状态管理。来源：v0，https://v0.app/templates/agentic-ai-task-orchestrator-jCeGSebTxo0。",
+      "description": "多智能体任务编排器原型，展示任务流、Agent 协作和运行状态管理。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/agentic-ai-task-orchestrator-jCeGSebTxo0",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/agentic-ai-task-orchestrator/",
       "extraDependencies": [
         "@radix-ui/react-dialog",
@@ -142,7 +150,7 @@
       "slug": "farm-management-dashboard-with-ai-iot-community",
       "sourcePath": "templates/farm-management-dashboard-with-ai-iot-community",
       "coverPath": "covers/farm-management-dashboard-with-ai-iot-community.webp",
-      "description": "农场 AIoT 管理仪表盘原型，展示农业设备、环境数据和智能管理场景。来源：Figma Community，https://www.figma.com/community/file/1536066541145305362/farm-management-dashboard-with-ai-iot。",
+      "description": "农场 AIoT 管理仪表盘原型，展示农业设备、环境数据和智能管理场景。",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/farm-management-dashboard-with-ai-iot-community/",
       "extraDependencies": [
         "@radix-ui/react-accordion",
@@ -196,7 +204,9 @@
       "slug": "pointer-ai-landing-page",
       "sourcePath": "templates/pointer-ai-landing-page",
       "coverPath": "covers/pointer-ai-landing-page.webp",
-      "description": "Pointer AI 产品落地页原型，展示 AI 开发工具卖点、客户证言和定价模块。来源：v0，https://v0.app/templates/pointer-ai-landing-page-XQxxv76lK5w。",
+      "description": "Pointer AI 产品落地页原型，展示 AI 开发工具卖点、客户证言和定价模块。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/pointer-ai-landing-page-XQxxv76lK5w",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/pointer-ai-landing-page/",
       "extraDependencies": [
         "@radix-ui/react-dialog",
@@ -213,7 +223,9 @@
       "slug": "zip-6",
       "sourcePath": "templates/zip-6",
       "coverPath": "covers/zip-6.webp",
-      "description": "CMSFullForm 管理后台原型，覆盖 CMS 仪表盘、SaaS 仪表盘、插件和设置等后台页面。来源：v0，https://v0.app/templates/cms-full-form-admin-dashboard-tailwind-templates-d7j5B58dlp4。",
+      "description": "CMSFullForm 管理后台原型，覆盖 CMS 仪表盘、SaaS 仪表盘、插件和设置等后台页面。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/cms-full-form-admin-dashboard-tailwind-templates-d7j5B58dlp4",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/zip-6/",
       "extraDependencies": [
         "@radix-ui/react-accordion",
@@ -267,7 +279,9 @@
       "slug": "aura-quiet-living",
       "sourcePath": "templates/aura-quiet-living",
       "coverPath": "covers/aura-quiet-living.webp",
-      "description": "静谧生活方式电商体验原型，包含商品浏览、品牌氛围和 AI 礼宾助手。来源：Google AI Studio，https://aistudio.google.com/apps/bundled/aura_quiet_living?showPreview=true&showAssistant=true。",
+      "description": "静谧生活方式电商体验原型，包含商品浏览、品牌氛围和 AI 礼宾助手。",
+      "author": "Google AI Studio",
+      "authorUrl": "https://aistudio.google.com/apps/bundled/aura_quiet_living?showPreview=true&showAssistant=true",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/aura-quiet-living/",
       "extraDependencies": [
         "@google/genai"
@@ -280,7 +294,9 @@
       "slug": "3-d-galaxy-page",
       "sourcePath": "templates/3-d-galaxy-page",
       "coverPath": "covers/3-d-galaxy-page.webp",
-      "description": "沉浸式 3D 银河浏览体验原型，适合展示空间导航与视觉探索场景。来源：v0，https://v0.app/templates/3d-galaxy-page-jAKW17eb3Os。",
+      "description": "沉浸式 3D 银河浏览体验原型，适合展示空间导航与视觉探索场景。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/3d-galaxy-page-jAKW17eb3Os",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/3-d-galaxy-page/",
       "extraDependencies": [
         "@radix-ui/react-label",
@@ -301,7 +317,9 @@
       "slug": "sales-ops-dashboard",
       "sourcePath": "templates/sales-ops-dashboard",
       "coverPath": "covers/sales-ops-dashboard.webp",
-      "description": "SalesOps 销售运营仪表盘原型，包含收入指标、团队绩效、客户和销售漏斗视图。来源：v0，https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi。",
+      "description": "SalesOps 销售运营仪表盘原型，包含收入指标、团队绩效、客户和销售漏斗视图。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/salesops-dashboard-9q2Mfgu6cDi",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/sales-ops-dashboard/",
       "extraDependencies": [
         "@radix-ui/react-accordion",
@@ -352,7 +370,9 @@
       "slug": "katachi",
       "sourcePath": "templates/katachi",
       "coverPath": "covers/katachi.webp",
-      "description": "家具品牌官网原型，覆盖品牌首页、材质表达、空间展示和订阅转化。来源：v0，https://v0.app/templates/katachi-6rnQUvOhgnB。",
+      "description": "家具品牌官网原型，覆盖品牌首页、材质表达、空间展示和订阅转化。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/katachi-6rnQUvOhgnB",
       "extraDependencies": [
         "clsx",
         "tailwind-merge"
@@ -376,7 +396,9 @@
       "slug": "perplexity-ai-clone-chat-ui-design",
       "sourcePath": "templates/perplexity-ai-clone-chat-ui-design",
       "coverPath": "covers/perplexity-ai-clone-chat-ui-design.webp",
-      "description": "Perplexity 风格 AI 聊天搜索界面原型，包含侧边栏、会话输入和升级弹窗体验。来源：v0，https://v0.app/templates/perplexity-ai-clone-chat-ui-design-25Jd26Tc5gR。",
+      "description": "Perplexity 风格 AI 聊天搜索界面原型，包含侧边栏、会话输入和升级弹窗体验。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/perplexity-ai-clone-chat-ui-design-25Jd26Tc5gR",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/perplexity-ai-clone-chat-ui-design/",
       "extraDependencies": [
         "@radix-ui/react-accordion",
@@ -431,7 +453,9 @@
       "slug": "modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr",
       "sourcePath": "templates/modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr",
       "coverPath": "covers/modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr.webp",
-      "description": "Gen Z 能量饮料品牌官网原型，包含产品展示、动效滚动和营销转化模块。来源：v0，https://v0.app/templates/modern-gen-z-energy-drink-landing-page-with-lenis-IQDdAvEEGsS。",
+      "description": "Gen Z 能量饮料品牌官网原型，包含产品展示、动效滚动和营销转化模块。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/modern-gen-z-energy-drink-landing-page-with-lenis-IQDdAvEEGsS",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/modern-gen-z-energy-drink-landing-page-with-lenis-smooth-scr/",
       "extraDependencies": [
         "clsx",
@@ -446,7 +470,9 @@
       "slug": "financial-dashboard",
       "sourcePath": "templates/financial-dashboard",
       "coverPath": "covers/financial-dashboard.webp",
-      "description": "财务数据仪表盘原型，展示关键指标、趋势图表和业务概览。来源：v0，https://v0.app/templates/financial-dashboard-DuidKNEmCKf。",
+      "description": "财务数据仪表盘原型，展示关键指标、趋势图表和业务概览。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/financial-dashboard-DuidKNEmCKf",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/financial-dashboard/",
       "extraDependencies": [
         "@radix-ui/react-accordion",
@@ -501,7 +527,9 @@
       "slug": "evasion-e-commerce-template",
       "sourcePath": "templates/evasion-e-commerce-template",
       "coverPath": "covers/evasion-e-commerce-template.webp",
-      "description": "户外电商品牌官网原型，覆盖产品陈列、场景化营销和购物转化体验。来源：v0，https://v0.app/templates/evasion-ecommerce-template-annqMtFCROP。",
+      "description": "户外电商品牌官网原型，覆盖产品陈列、场景化营销和购物转化体验。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/evasion-ecommerce-template-annqMtFCROP",
       "extraDependencies": [
         "clsx",
         "tailwind-merge"
@@ -514,7 +542,9 @@
       "slug": "optimus-the-ai-platform-to-build-and-ship",
       "sourcePath": "templates/optimus-the-ai-platform-to-build-and-ship",
       "coverPath": "covers/optimus-the-ai-platform-to-build-and-ship.webp",
-      "description": "Optimus AI 平台官网原型，展示 AI 构建发布平台的产品能力、安全和开发者体验。来源：v0，https://v0.app/templates/optimus-the-ai-platform-to-build-and-ship-LHv4frpA7Us。",
+      "description": "Optimus AI 平台官网原型，展示 AI 构建发布平台的产品能力、安全和开发者体验。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/optimus-the-ai-platform-to-build-and-ship-LHv4frpA7Us",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/optimus-the-ai-platform-to-build-and-ship/",
       "extraDependencies": [
         "@radix-ui/react-slot",
@@ -530,7 +560,9 @@
       "slug": "essence-elegant-showcase-template-for-brands",
       "sourcePath": "templates/essence-elegant-showcase-template-for-brands",
       "coverPath": "covers/essence-elegant-showcase-template-for-brands.webp",
-      "description": "高级餐饮品牌展示页原型，覆盖品牌理念、菜单视觉和预约转化场景。来源：v0，https://v0.app/templates/essence-elegant-showcase-template-for-brands-ncdfEYFL1p9。",
+      "description": "高级餐饮品牌展示页原型，覆盖品牌理念、菜单视觉和预约转化场景。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/essence-elegant-showcase-template-for-brands-ncdfEYFL1p9",
       "extraDependencies": [
         "clsx",
         "tailwind-merge"
@@ -543,7 +575,9 @@
       "slug": "zip-3",
       "sourcePath": "templates/zip-3",
       "coverPath": "covers/zip-3.webp",
-      "description": "Apex 企业 SaaS 官网原型，覆盖产品能力、企业级卖点和落地页转化路径。来源：v0，https://v0.app/templates/premium-saas-landing-page-zgEs6kEZIMQ。",
+      "description": "Apex 企业 SaaS 官网原型，覆盖产品能力、企业级卖点和落地页转化路径。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/premium-saas-landing-page-zgEs6kEZIMQ",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/zip-3/",
       "extraDependencies": [
         "@radix-ui/react-accordion",
@@ -593,7 +627,9 @@
       "slug": "brutalist-ai-saa-s-landing-page",
       "sourcePath": "templates/brutalist-ai-saa-s-landing-page",
       "coverPath": "covers/brutalist-ai-saa-s-landing-page.webp",
-      "description": "Brutalist 风格 AI SaaS 落地页原型，突出强对比排版、产品卖点和转化模块。来源：v0，https://v0.app/templates/brutalist-ai-saas-landing-page-6QYngsI1qTp。",
+      "description": "Brutalist 风格 AI SaaS 落地页原型，突出强对比排版、产品卖点和转化模块。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/brutalist-ai-saas-landing-page-6QYngsI1qTp",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/brutalist-ai-saa-s-landing-page/",
       "extraDependencies": [
         "clsx",
@@ -607,7 +643,9 @@
       "slug": "interface",
       "sourcePath": "templates/interface",
       "coverPath": "covers/interface.webp",
-      "description": "SIGNAL 实验创意工作室官网原型，展示创意项目、工作室形象和品牌内容。来源：v0，https://v0.app/templates/interface-XhGK3naSZPB。",
+      "description": "SIGNAL 实验创意工作室官网原型，展示创意项目、工作室形象和品牌内容。",
+      "author": "v0",
+      "authorUrl": "https://v0.app/templates/interface-XhGK3naSZPB",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/interface/",
       "extraDependencies": [
         "clsx",
@@ -623,7 +661,9 @@
       "slug": "wms-by-vitamin-community",
       "sourcePath": "templates/wms-by-vitamin-community",
       "coverPath": "covers/wms-by-vitamin-community.webp",
-      "description": "仓储管理系统 WMS 多页面后台原型，保留设计系统总览、入库、出库、库存和基础资料等模块。原作者：vitamin，Figma 主页：https://www.figma.com/@vitamin2。",
+      "description": "仓储管理系统 WMS 多页面后台原型，保留设计系统总览、入库、出库、库存和基础资料等模块。",
+      "author": "vitamin",
+      "authorUrl": "https://www.figma.com/@vitamin2",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/wms-by-vitamin-community/",
       "extraDependencies": [
         "@radix-ui/react-accordion",
@@ -707,7 +747,7 @@
       "slug": "netflix",
       "sourcePath": "templates/Netflix",
       "coverPath": "covers/Netflix.webp",
-      "description": "Netflix 多页面移动端原型，覆盖登录、首页、搜索、下载和用户选择等核心体验。来源：当前 Make 项目。",
+      "description": "Netflix 多页面移动端原型，覆盖登录、首页、搜索、下载和用户选择等核心体验。",
       "requiresDependencyInstall": true,
       "extraDependencies": [
         "lucide-react"
@@ -719,7 +759,7 @@
       "slug": "chat-gpt-theme-built-with-tinte",
       "sourcePath": "templates/chat-gpt-theme-built-with-tinte",
       "coverPath": "covers/chat-gpt-theme-built-with-tinte.webp",
-      "description": "ChatGPT/Tinte 风格 shadcn 新组件展示原型，覆盖 Button Group、Input Group、Field、Item、Spinner 等组件样例。来源：当前 Make 项目 / v0 转换。",
+      "description": "ChatGPT/Tinte 风格 shadcn 新组件展示原型，覆盖 Button Group、Input Group、Field、Item、Spinner 等组件样例。",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/chat-gpt-theme-built-with-tinte/",
       "requiresDependencyInstall": true,
       "extraDependencies": [
@@ -734,7 +774,7 @@
       "slug": "electric-landing-page-template",
       "sourcePath": "templates/electric-landing-page-template",
       "coverPath": "covers/electric-landing-page-template.webp",
-      "description": "Electric AI 客服落地页原型，覆盖产品介绍、用例、定价、视频画廊和转化 CTA。来源：当前 Make 项目 / v0 转换。",
+      "description": "Electric AI 客服落地页原型，覆盖产品介绍、用例、定价、视频画廊和转化 CTA。",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/electric-landing-page-template/",
       "requiresDependencyInstall": true,
       "extraDependencies": [
@@ -749,7 +789,7 @@
       "slug": "modern-landing-page-for-webdevelopement",
       "sourcePath": "templates/modern-landing-page-for-webdevelopement",
       "coverPath": "covers/modern-landing-page-for-webdevelopement.webp",
-      "description": "MSwebdesign 现代网页开发服务官网原型，覆盖服务、作品集、报价流程、定价和联系转化。来源：当前 Make 项目 / v0 转换。",
+      "description": "MSwebdesign 现代网页开发服务官网原型，覆盖服务、作品集、报价流程、定价和联系转化。",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/modern-landing-page-for-webdevelopement/",
       "requiresDependencyInstall": true,
       "extraDependencies": [
@@ -806,7 +846,7 @@
       "slug": "new-components-shadcn-ui",
       "sourcePath": "templates/new-components-shadcn-ui",
       "coverPath": "covers/new-components-shadcn-ui.webp",
-      "description": "shadcn/ui 新组件展示原型，包含 Button Group、Input Group、Field、Item、Spinner 等组件组合。来源：当前 Make 项目 / v0 转换。",
+      "description": "shadcn/ui 新组件展示原型，包含 Button Group、Input Group、Field、Item、Spinner 等组件组合。",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/new-components-shadcn-ui/",
       "requiresDependencyInstall": true,
       "extraDependencies": [
@@ -821,7 +861,7 @@
       "slug": "sketch-website",
       "sourcePath": "templates/sketch-website",
       "coverPath": "covers/sketch-website.webp",
-      "description": "Sketch 官网多页面原型，覆盖产品、协作、价格、博客、应用和支持等官网页面。来源：当前 Make 项目。",
+      "description": "Sketch 官网多页面原型，覆盖产品、协作、价格、博客、应用和支持等官网页面。",
       "requiresDependencyInstall": true,
       "extraDependencies": []
     },
@@ -831,7 +871,7 @@
       "slug": "slack-app",
       "sourcePath": "templates/slack_app",
       "coverPath": "covers/slack_app.webp",
-      "description": "Slack App 多页面产品原型，覆盖登录引导、工作区、频道、搜索、文件和 Slackbot 聊天等流程。来源：当前 Make 项目。",
+      "description": "Slack App 多页面产品原型，覆盖登录引导、工作区、频道、搜索、文件和 Slackbot 聊天等流程。",
       "requiresDependencyInstall": true,
       "extraDependencies": [
         "lucide-react"
@@ -843,7 +883,7 @@
       "slug": "terra-landing-page",
       "sourcePath": "templates/terra-landing-page",
       "coverPath": "covers/terra-landing-page.webp",
-      "description": "TERRA 森林保护落地页原型，展示森林监测、无人机、生物多样性和公益转化场景。来源：当前 Make 项目 / v0 转换。",
+      "description": "TERRA 森林保护落地页原型，展示森林监测、无人机、生物多样性和公益转化场景。",
       "requiresDependencyInstall": true,
       "extraDependencies": [
         "@radix-ui/react-slot",
@@ -857,7 +897,7 @@
       "slug": "ugc-video-ai-agent-workflow",
       "sourcePath": "templates/ugc-video-ai-agent-workflow",
       "coverPath": "covers/ugc-video-ai-agent-workflow.webp",
-      "description": "UGC Video AI Agent 工作流构建器原型，展示节点编排、执行面板、运行记录和 AI 视频生成流程。来源：当前 Make 项目 / v0 转换。",
+      "description": "UGC Video AI Agent 工作流构建器原型，展示节点编排、执行面板、运行记录和 AI 视频生成流程。",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/ugc-video-ai-agent-workflow/",
       "requiresDependencyInstall": true,
       "extraDependencies": [
@@ -924,7 +964,7 @@
       "slug": "your-saa-s-saa-s-landing-page",
       "sourcePath": "templates/your-saa-s-saa-s-landing-page",
       "coverPath": "covers/your-saa-s-saa-s-landing-page.webp",
-      "description": "安行驾校 SaaS 风格落地页原型，包含功能卖点、流程、价格、社证和预约转化模块。来源：当前 Make 项目 / v0 转换。",
+      "description": "安行驾校 SaaS 风格落地页原型，包含功能卖点、流程、价格、社证和预约转化模块。",
       "previewUrl": "https://lintendo.github.io/Make-Template/previews/your-saa-s-saa-s-landing-page/",
       "requiresDependencyInstall": true,
       "extraDependencies": [
